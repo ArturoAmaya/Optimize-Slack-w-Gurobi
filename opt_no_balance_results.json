@@ -1,0 +1,6527 @@
+{
+ "AA25EI.csv": {
+  "difference": 0,
+  "new": 0,
+  "original": 0
+ },
+ "AA25FI.csv": {
+  "difference": 6,
+  "new": 10,
+  "original": 16
+ },
+ "AA25MU.csv": {
+  "difference": 0,
+  "new": 1,
+  "original": 1
+ },
+ "AA25RE.csv": {
+  "difference": 1,
+  "new": 2,
+  "original": 3
+ },
+ "AA25SI.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "AA25SN.csv": {
+  "difference": 6,
+  "new": 4,
+  "original": 10
+ },
+ "AA25TH.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "AA25WA.csv": {
+  "difference": 0,
+  "new": 5,
+  "original": 5
+ },
+ "AN26EI.csv": {
+  "difference": 0,
+  "new": 0,
+  "original": 0
+ },
+ "AN26FI.csv": {
+  "difference": 6,
+  "new": 10,
+  "original": 16
+ },
+ "AN26MU.csv": {
+  "difference": 0,
+  "new": 1,
+  "original": 1
+ },
+ "AN26RE.csv": {
+  "difference": 1,
+  "new": 2,
+  "original": 3
+ },
+ "AN26SI.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "AN26SN.csv": {
+  "difference": 10,
+  "new": 4,
+  "original": 14
+ },
+ "AN26TH.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "AN26WA.csv": {
+  "difference": 0,
+  "new": 5,
+  "original": 5
+ },
+ "AN27EI.csv": {
+  "difference": 0,
+  "new": 0,
+  "original": 0
+ },
+ "AN27FI.csv": {
+  "difference": 4,
+  "new": 12,
+  "original": 16
+ },
+ "AN27MU.csv": {
+  "difference": 0,
+  "new": 1,
+  "original": 1
+ },
+ "AN27RE.csv": {
+  "difference": 1,
+  "new": 2,
+  "original": 3
+ },
+ "AN27SI.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "AN27SN.csv": {
+  "difference": 10,
+  "new": 4,
+  "original": 14
+ },
+ "AN27TH.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "AN27WA.csv": {
+  "difference": 0,
+  "new": 5,
+  "original": 5
+ },
+ "AN28EI.csv": {
+  "difference": 0,
+  "new": 0,
+  "original": 0
+ },
+ "AN28FI.csv": {
+  "difference": 6,
+  "new": 10,
+  "original": 16
+ },
+ "AN28MU.csv": {
+  "difference": 0,
+  "new": 1,
+  "original": 1
+ },
+ "AN28RE.csv": {
+  "difference": 1,
+  "new": 2,
+  "original": 3
+ },
+ "AN28SI.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "AN28SN.csv": {
+  "difference": 10,
+  "new": 4,
+  "original": 14
+ },
+ "AN28TH.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "AN28WA.csv": {
+  "difference": 0,
+  "new": 5,
+  "original": 5
+ },
+ "AN29EI.csv": {
+  "difference": 3,
+  "new": 6,
+  "original": 9
+ },
+ "AN29FI.csv": {
+  "difference": 6,
+  "new": 14,
+  "original": 20
+ },
+ "AN29MU.csv": {
+  "difference": 1,
+  "new": 4,
+  "original": 5
+ },
+ "AN29RE.csv": {
+  "difference": 4,
+  "new": 7,
+  "original": 11
+ },
+ "AN29SI.csv": {
+  "difference": 3,
+  "new": 8,
+  "original": 11
+ },
+ "AN29SN.csv": {
+  "difference": 13,
+  "new": 10,
+  "original": 23
+ },
+ "AN29TH.csv": {
+  "difference": 3,
+  "new": 8,
+  "original": 11
+ },
+ "AN29WA.csv": {
+  "difference": 1,
+  "new": 8,
+  "original": 9
+ },
+ "AN30EI.csv": {
+  "difference": 0,
+  "new": 0,
+  "original": 0
+ },
+ "AN30FI.csv": {
+  "difference": 6,
+  "new": 10,
+  "original": 16
+ },
+ "AN30MU.csv": {
+  "difference": 0,
+  "new": 1,
+  "original": 1
+ },
+ "AN30RE.csv": {
+  "difference": 1,
+  "new": 2,
+  "original": 3
+ },
+ "AN30SI.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "AN30SN.csv": {
+  "difference": 10,
+  "new": 4,
+  "original": 14
+ },
+ "AN30TH.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "AN30WA.csv": {
+  "difference": 0,
+  "new": 5,
+  "original": 5
+ },
+ "BE25EI.csv": {
+  "difference": 41,
+  "new": 100,
+  "original": 141
+ },
+ "BE25FI.csv": {
+  "difference": 52,
+  "new": 105,
+  "original": 157
+ },
+ "BE25MU.csv": {
+  "difference": 45,
+  "new": 97,
+  "original": 142
+ },
+ "BE25RE.csv": {
+  "difference": 38,
+  "new": 105,
+  "original": 143
+ },
+ "BE25SI.csv": {
+  "difference": 48,
+  "new": 95,
+  "original": 143
+ },
+ "BE25SN.csv": {
+  "difference": 55,
+  "new": 100,
+  "original": 155
+ },
+ "BE25TH.csv": {
+  "difference": 45,
+  "new": 98,
+  "original": 143
+ },
+ "BE25WA.csv": {
+  "difference": 47,
+  "new": 99,
+  "original": 146
+ },
+ "BE27EI.csv": {
+  "difference": 48,
+  "new": 92,
+  "original": 140
+ },
+ "BE27FI.csv": {
+  "difference": 58,
+  "new": 96,
+  "original": 154
+ },
+ "BE27MU.csv": {
+  "difference": 50,
+  "new": 91,
+  "original": 141
+ },
+ "BE27RE.csv": {
+  "difference": 44,
+  "new": 98,
+  "original": 142
+ },
+ "BE27SI.csv": {
+  "difference": 50,
+  "new": 92,
+  "original": 142
+ },
+ "BE27SN.csv": {
+  "difference": 60,
+  "new": 94,
+  "original": 154
+ },
+ "BE27TH.csv": {
+  "difference": 50,
+  "new": 92,
+  "original": 142
+ },
+ "BE27WA.csv": {
+  "difference": 52,
+  "new": 93,
+  "original": 145
+ },
+ "BE28EI.csv": {
+  "difference": 68,
+  "new": 85,
+  "original": 153
+ },
+ "BE28FI.csv": {
+  "difference": 85,
+  "new": 84,
+  "original": 169
+ },
+ "BE28MU.csv": {
+  "difference": 73,
+  "new": 81,
+  "original": 154
+ },
+ "BE28RE.csv": {
+  "difference": 74,
+  "new": 84,
+  "original": 158
+ },
+ "BE28SI.csv": {
+  "difference": 75,
+  "new": 80,
+  "original": 155
+ },
+ "BE28SN.csv": {
+  "difference": 87,
+  "new": 80,
+  "original": 167
+ },
+ "BE28TH.csv": {
+  "difference": 75,
+  "new": 80,
+  "original": 155
+ },
+ "BE28WA.csv": {
+  "difference": 76,
+  "new": 83,
+  "original": 159
+ },
+ "BE29EI.csv": {
+  "difference": 57,
+  "new": 133,
+  "original": 190
+ },
+ "BE29FI.csv": {
+  "difference": 78,
+  "new": 128,
+  "original": 206
+ },
+ "BE29MU.csv": {
+  "difference": 56,
+  "new": 135,
+  "original": 191
+ },
+ "BE29RE.csv": {
+  "difference": 61,
+  "new": 131,
+  "original": 192
+ },
+ "BE29SI.csv": {
+  "difference": 60,
+  "new": 132,
+  "original": 192
+ },
+ "BE29SN.csv": {
+  "difference": 73,
+  "new": 131,
+  "original": 204
+ },
+ "BE29TH.csv": {
+  "difference": 61,
+  "new": 131,
+  "original": 192
+ },
+ "BE29WA.csv": {
+  "difference": 65,
+  "new": 130,
+  "original": 195
+ },
+ "BI30EI.csv": {
+  "difference": 23,
+  "new": 26,
+  "original": 49
+ },
+ "BI30FI.csv": {
+  "difference": 30,
+  "new": 35,
+  "original": 65
+ },
+ "BI30MU.csv": {
+  "difference": 23,
+  "new": 27,
+  "original": 50
+ },
+ "BI30RE.csv": {
+  "difference": 25,
+  "new": 26,
+  "original": 51
+ },
+ "BI30SI.csv": {
+  "difference": 23,
+  "new": 28,
+  "original": 51
+ },
+ "BI30SN.csv": {
+  "difference": 34,
+  "new": 29,
+  "original": 63
+ },
+ "BI30TH.csv": {
+  "difference": 23,
+  "new": 28,
+  "original": 51
+ },
+ "BI30WA.csv": {
+  "difference": 23,
+  "new": 31,
+  "original": 54
+ },
+ "BI31EI.csv": {
+  "difference": 38,
+  "new": 41,
+  "original": 79
+ },
+ "BI31FI.csv": {
+  "difference": 47,
+  "new": 48,
+  "original": 95
+ },
+ "BI31MU.csv": {
+  "difference": 38,
+  "new": 42,
+  "original": 80
+ },
+ "BI31RE.csv": {
+  "difference": 40,
+  "new": 41,
+  "original": 81
+ },
+ "BI31SI.csv": {
+  "difference": 38,
+  "new": 43,
+  "original": 81
+ },
+ "BI31SN.csv": {
+  "difference": 48,
+  "new": 45,
+  "original": 93
+ },
+ "BI31TH.csv": {
+  "difference": 35,
+  "new": 46,
+  "original": 81
+ },
+ "BI31WA.csv": {
+  "difference": 39,
+  "new": 45,
+  "original": 84
+ },
+ "BI32EI.csv": {
+  "difference": 36,
+  "new": 45,
+  "original": 81
+ },
+ "BI32FI.csv": {
+  "difference": 43,
+  "new": 54,
+  "original": 97
+ },
+ "BI32MU.csv": {
+  "difference": 35,
+  "new": 47,
+  "original": 82
+ },
+ "BI32RE.csv": {
+  "difference": 34,
+  "new": 49,
+  "original": 83
+ },
+ "BI32SI.csv": {
+  "difference": 33,
+  "new": 50,
+  "original": 83
+ },
+ "BI32SN.csv": {
+  "difference": 46,
+  "new": 49,
+  "original": 95
+ },
+ "BI32TH.csv": {
+  "difference": 32,
+  "new": 51,
+  "original": 83
+ },
+ "BI32WA.csv": {
+  "difference": 35,
+  "new": 51,
+  "original": 86
+ },
+ "BI34EI.csv": {
+  "difference": 61,
+  "new": 57,
+  "original": 118
+ },
+ "BI34FI.csv": {
+  "difference": 77,
+  "new": 57,
+  "original": 134
+ },
+ "BI34MU.csv": {
+  "difference": 64,
+  "new": 55,
+  "original": 119
+ },
+ "BI34RE.csv": {
+  "difference": 66,
+  "new": 54,
+  "original": 120
+ },
+ "BI34SI.csv": {
+  "difference": 64,
+  "new": 56,
+  "original": 120
+ },
+ "BI34SN.csv": {
+  "difference": 75,
+  "new": 57,
+  "original": 132
+ },
+ "BI34TH.csv": {
+  "difference": 62,
+  "new": 58,
+  "original": 120
+ },
+ "BI34WA.csv": {
+  "difference": 65,
+  "new": 58,
+  "original": 123
+ },
+ "BI35EI.csv": {
+  "difference": 42,
+  "new": 44,
+  "original": 86
+ },
+ "BI35FI.csv": {
+  "difference": 51,
+  "new": 51,
+  "original": 102
+ },
+ "BI35MU.csv": {
+  "difference": 41,
+  "new": 46,
+  "original": 87
+ },
+ "BI35RE.csv": {
+  "difference": 43,
+  "new": 45,
+  "original": 88
+ },
+ "BI35SI.csv": {
+  "difference": 40,
+  "new": 48,
+  "original": 88
+ },
+ "BI35SN.csv": {
+  "difference": 52,
+  "new": 48,
+  "original": 100
+ },
+ "BI35TH.csv": {
+  "difference": 39,
+  "new": 49,
+  "original": 88
+ },
+ "BI35WA.csv": {
+  "difference": 41,
+  "new": 50,
+  "original": 91
+ },
+ "BI37EI.csv": {
+  "difference": 44,
+  "new": 45,
+  "original": 89
+ },
+ "BI37FI.csv": {
+  "difference": 61,
+  "new": 55,
+  "original": 116
+ },
+ "BI37MU.csv": {
+  "difference": 43,
+  "new": 47,
+  "original": 90
+ },
+ "BI37RE.csv": {
+  "difference": 44,
+  "new": 47,
+  "original": 91
+ },
+ "BI37SI.csv": {
+  "difference": 33,
+  "new": 31,
+  "original": 64
+ },
+ "BI37TH.csv": {
+  "difference": 43,
+  "new": 48,
+  "original": 91
+ },
+ "BI37WA.csv": {
+  "difference": 44,
+  "new": 50,
+  "original": 94
+ },
+ "BI38EI.csv": {
+  "difference": 61,
+  "new": 56,
+  "original": 117
+ },
+ "BI38FI.csv": {
+  "difference": 74,
+  "new": 59,
+  "original": 133
+ },
+ "BI38MU.csv": {
+  "difference": 61,
+  "new": 57,
+  "original": 118
+ },
+ "BI38RE.csv": {
+  "difference": 64,
+  "new": 55,
+  "original": 119
+ },
+ "BI38SI.csv": {
+  "difference": 61,
+  "new": 58,
+  "original": 119
+ },
+ "BI38SN.csv": {
+  "difference": 72,
+  "new": 59,
+  "original": 131
+ },
+ "BI38TH.csv": {
+  "difference": 61,
+  "new": 58,
+  "original": 119
+ },
+ "BI38WA.csv": {
+  "difference": 64,
+  "new": 58,
+  "original": 122
+ },
+ "CE25EI.csv": {
+  "difference": 30,
+  "new": 89,
+  "original": 119
+ },
+ "CE25FI.csv": {
+  "difference": 54,
+  "new": 81,
+  "original": 135
+ },
+ "CE25MU.csv": {
+  "difference": 37,
+  "new": 83,
+  "original": 120
+ },
+ "CE25RE.csv": {
+  "difference": 36,
+  "new": 85,
+  "original": 121
+ },
+ "CE25SI.csv": {
+  "difference": 37,
+  "new": 84,
+  "original": 121
+ },
+ "CE25SN.csv": {
+  "difference": 48,
+  "new": 85,
+  "original": 133
+ },
+ "CE25TH.csv": {
+  "difference": 35,
+  "new": 86,
+  "original": 121
+ },
+ "CE25WA.csv": {
+  "difference": 44,
+  "new": 86,
+  "original": 130
+ },
+ "CG25EI.csv": {
+  "difference": 8,
+  "new": 5,
+  "original": 13
+ },
+ "CG25FI.csv": {
+  "difference": 14,
+  "new": 15,
+  "original": 29
+ },
+ "CG25MU.csv": {
+  "difference": 8,
+  "new": 6,
+  "original": 14
+ },
+ "CG25RE.csv": {
+  "difference": 9,
+  "new": 6,
+  "original": 15
+ },
+ "CG25SI.csv": {
+  "difference": 8,
+  "new": 7,
+  "original": 15
+ },
+ "CG25SN.csv": {
+  "difference": 18,
+  "new": 9,
+  "original": 27
+ },
+ "CG25TH.csv": {
+  "difference": 8,
+  "new": 7,
+  "original": 15
+ },
+ "CG25WA.csv": {
+  "difference": 8,
+  "new": 10,
+  "original": 18
+ },
+ "CG29EI.csv": {
+  "difference": 20,
+  "new": 9,
+  "original": 29
+ },
+ "CG29FI.csv": {
+  "difference": 26,
+  "new": 19,
+  "original": 45
+ },
+ "CG29MU.csv": {
+  "difference": 20,
+  "new": 10,
+  "original": 30
+ },
+ "CG29RE.csv": {
+  "difference": 21,
+  "new": 10,
+  "original": 31
+ },
+ "CG29SI.csv": {
+  "difference": 20,
+  "new": 11,
+  "original": 31
+ },
+ "CG29SN.csv": {
+  "difference": 30,
+  "new": 13,
+  "original": 43
+ },
+ "CG29TH.csv": {
+  "difference": 20,
+  "new": 11,
+  "original": 31
+ },
+ "CG29WA.csv": {
+  "difference": 20,
+  "new": 14,
+  "original": 34
+ },
+ "CG31EI.csv": {
+  "difference": 20,
+  "new": 9,
+  "original": 29
+ },
+ "CG31FI.csv": {
+  "difference": 26,
+  "new": 19,
+  "original": 45
+ },
+ "CG31MU.csv": {
+  "difference": 20,
+  "new": 10,
+  "original": 30
+ },
+ "CG31RE.csv": {
+  "difference": 21,
+  "new": 10,
+  "original": 31
+ },
+ "CG31SI.csv": {
+  "difference": 20,
+  "new": 11,
+  "original": 31
+ },
+ "CG31SN.csv": {
+  "difference": 30,
+  "new": 13,
+  "original": 43
+ },
+ "CG31TH.csv": {
+  "difference": 20,
+  "new": 11,
+  "original": 31
+ },
+ "CG31WA.csv": {
+  "difference": 20,
+  "new": 14,
+  "original": 34
+ },
+ "CG32EI.csv": {
+  "difference": 5,
+  "new": 4,
+  "original": 9
+ },
+ "CG32FI.csv": {
+  "difference": 11,
+  "new": 14,
+  "original": 25
+ },
+ "CG32MU.csv": {
+  "difference": 5,
+  "new": 5,
+  "original": 10
+ },
+ "CG32RE.csv": {
+  "difference": 6,
+  "new": 5,
+  "original": 11
+ },
+ "CG32SI.csv": {
+  "difference": 5,
+  "new": 6,
+  "original": 11
+ },
+ "CG32SN.csv": {
+  "difference": 11,
+  "new": 8,
+  "original": 19
+ },
+ "CG32TH.csv": {
+  "difference": 5,
+  "new": 6,
+  "original": 11
+ },
+ "CG32WA.csv": {
+  "difference": 5,
+  "new": 9,
+  "original": 14
+ },
+ "CG33EI.csv": {
+  "difference": 20,
+  "new": 9,
+  "original": 29
+ },
+ "CG33FI.csv": {
+  "difference": 26,
+  "new": 19,
+  "original": 45
+ },
+ "CG33MU.csv": {
+  "difference": 20,
+  "new": 10,
+  "original": 30
+ },
+ "CG33RE.csv": {
+  "difference": 21,
+  "new": 10,
+  "original": 31
+ },
+ "CG33SI.csv": {
+  "difference": 20,
+  "new": 11,
+  "original": 31
+ },
+ "CG33SN.csv": {
+  "difference": 30,
+  "new": 13,
+  "original": 43
+ },
+ "CG33TH.csv": {
+  "difference": 20,
+  "new": 11,
+  "original": 31
+ },
+ "CG33WA.csv": {
+  "difference": 20,
+  "new": 14,
+  "original": 34
+ },
+ "CG34EI.csv": {
+  "difference": 20,
+  "new": 9,
+  "original": 29
+ },
+ "CG34FI.csv": {
+  "difference": 26,
+  "new": 19,
+  "original": 45
+ },
+ "CG34MU.csv": {
+  "difference": 20,
+  "new": 10,
+  "original": 30
+ },
+ "CG34RE.csv": {
+  "difference": 21,
+  "new": 10,
+  "original": 31
+ },
+ "CG34SI.csv": {
+  "difference": 20,
+  "new": 11,
+  "original": 31
+ },
+ "CG34SN.csv": {
+  "difference": 30,
+  "new": 13,
+  "original": 43
+ },
+ "CG34TH.csv": {
+  "difference": 20,
+  "new": 11,
+  "original": 31
+ },
+ "CG34WA.csv": {
+  "difference": 20,
+  "new": 14,
+  "original": 34
+ },
+ "CG35EI.csv": {
+  "difference": 27,
+  "new": 12,
+  "original": 39
+ },
+ "CG35FI.csv": {
+  "difference": 33,
+  "new": 22,
+  "original": 55
+ },
+ "CG35MU.csv": {
+  "difference": 20,
+  "new": 9,
+  "original": 29
+ },
+ "CG35RE.csv": {
+  "difference": 28,
+  "new": 13,
+  "original": 41
+ },
+ "CG35SI.csv": {
+  "difference": 27,
+  "new": 14,
+  "original": 41
+ },
+ "CG35SN.csv": {
+  "difference": 37,
+  "new": 16,
+  "original": 53
+ },
+ "CG35TH.csv": {
+  "difference": 27,
+  "new": 14,
+  "original": 41
+ },
+ "CG35WA.csv": {
+  "difference": 27,
+  "new": 17,
+  "original": 44
+ },
+ "CH25EI.csv": {
+  "difference": 32,
+  "new": 50,
+  "original": 82
+ },
+ "CH25FI.csv": {
+  "difference": 41,
+  "new": 57,
+  "original": 98
+ },
+ "CH25MU.csv": {
+  "difference": 34,
+  "new": 49,
+  "original": 83
+ },
+ "CH25RE.csv": {
+  "difference": 34,
+  "new": 50,
+  "original": 84
+ },
+ "CH25SI.csv": {
+  "difference": 33,
+  "new": 51,
+  "original": 84
+ },
+ "CH25SN.csv": {
+  "difference": 44,
+  "new": 52,
+  "original": 96
+ },
+ "CH25TH.csv": {
+  "difference": 34,
+  "new": 50,
+  "original": 84
+ },
+ "CH25WA.csv": {
+  "difference": 33,
+  "new": 54,
+  "original": 87
+ },
+ "CH34EI.csv": {
+  "difference": 39,
+  "new": 60,
+  "original": 99
+ },
+ "CH34FI.csv": {
+  "difference": 50,
+  "new": 65,
+  "original": 115
+ },
+ "CH34MU.csv": {
+  "difference": 42,
+  "new": 58,
+  "original": 100
+ },
+ "CH34RE.csv": {
+  "difference": 43,
+  "new": 58,
+  "original": 101
+ },
+ "CH34SI.csv": {
+  "difference": 42,
+  "new": 59,
+  "original": 101
+ },
+ "CH34SN.csv": {
+  "difference": 51,
+  "new": 62,
+  "original": 113
+ },
+ "CH34TH.csv": {
+  "difference": 41,
+  "new": 60,
+  "original": 101
+ },
+ "CH34WA.csv": {
+  "difference": 46,
+  "new": 58,
+  "original": 104
+ },
+ "CH35EI.csv": {
+  "difference": 38,
+  "new": 50,
+  "original": 88
+ },
+ "CH35FI.csv": {
+  "difference": 48,
+  "new": 56,
+  "original": 104
+ },
+ "CH35MU.csv": {
+  "difference": 40,
+  "new": 49,
+  "original": 89
+ },
+ "CH35RE.csv": {
+  "difference": 44,
+  "new": 49,
+  "original": 93
+ },
+ "CH35SI.csv": {
+  "difference": 41,
+  "new": 49,
+  "original": 90
+ },
+ "CH35SN.csv": {
+  "difference": 48,
+  "new": 54,
+  "original": 102
+ },
+ "CH35TH.csv": {
+  "difference": 38,
+  "new": 52,
+  "original": 90
+ },
+ "CH35WA.csv": {
+  "difference": 42,
+  "new": 51,
+  "original": 93
+ },
+ "CH36EI.csv": {
+  "difference": 61,
+  "new": 58,
+  "original": 119
+ },
+ "CH36FI.csv": {
+  "difference": 72,
+  "new": 63,
+  "original": 135
+ },
+ "CH36MU.csv": {
+  "difference": 65,
+  "new": 55,
+  "original": 120
+ },
+ "CH36RE.csv": {
+  "difference": 63,
+  "new": 58,
+  "original": 121
+ },
+ "CH36SI.csv": {
+  "difference": 62,
+  "new": 59,
+  "original": 121
+ },
+ "CH36SN.csv": {
+  "difference": 73,
+  "new": 60,
+  "original": 133
+ },
+ "CH36TH.csv": {
+  "difference": 59,
+  "new": 62,
+  "original": 121
+ },
+ "CH36WA.csv": {
+  "difference": 63,
+  "new": 61,
+  "original": 124
+ },
+ "CH38EI.csv": {
+  "difference": 42,
+  "new": 50,
+  "original": 92
+ },
+ "CH38FI.csv": {
+  "difference": 54,
+  "new": 54,
+  "original": 108
+ },
+ "CH38MU.csv": {
+  "difference": 43,
+  "new": 50,
+  "original": 93
+ },
+ "CH38RE.csv": {
+  "difference": 43,
+  "new": 51,
+  "original": 94
+ },
+ "CH38SI.csv": {
+  "difference": 45,
+  "new": 49,
+  "original": 94
+ },
+ "CH38SN.csv": {
+  "difference": 53,
+  "new": 53,
+  "original": 106
+ },
+ "CH38TH.csv": {
+  "difference": 43,
+  "new": 51,
+  "original": 94
+ },
+ "CH38WA.csv": {
+  "difference": 45,
+  "new": 52,
+  "original": 97
+ },
+ "CL25EI.csv": {
+  "difference": 6,
+  "new": 4,
+  "original": 10
+ },
+ "CL25FI.csv": {
+  "difference": 12,
+  "new": 14,
+  "original": 26
+ },
+ "CL25MU.csv": {
+  "difference": 6,
+  "new": 5,
+  "original": 11
+ },
+ "CL25RE.csv": {
+  "difference": 7,
+  "new": 6,
+  "original": 13
+ },
+ "CL25SI.csv": {
+  "difference": 6,
+  "new": 6,
+  "original": 12
+ },
+ "CL25SN.csv": {
+  "difference": 16,
+  "new": 8,
+  "original": 24
+ },
+ "CL25TH.csv": {
+  "difference": 6,
+  "new": 6,
+  "original": 12
+ },
+ "CL25WA.csv": {
+  "difference": 6,
+  "new": 9,
+  "original": 15
+ },
+ "CM26EI.csv": {
+  "difference": 6,
+  "new": 7,
+  "original": 13
+ },
+ "CM26FI.csv": {
+  "difference": 13,
+  "new": 16,
+  "original": 29
+ },
+ "CM26MU.csv": {
+  "difference": 6,
+  "new": 8,
+  "original": 14
+ },
+ "CM26RE.csv": {
+  "difference": 8,
+  "new": 8,
+  "original": 16
+ },
+ "CM26SI.csv": {
+  "difference": 7,
+  "new": 8,
+  "original": 15
+ },
+ "CM26SN.csv": {
+  "difference": 17,
+  "new": 10,
+  "original": 27
+ },
+ "CM26TH.csv": {
+  "difference": 6,
+  "new": 9,
+  "original": 15
+ },
+ "CM26WA.csv": {
+  "difference": 7,
+  "new": 11,
+  "original": 18
+ },
+ "CN25EI.csv": {
+  "difference": 0,
+  "new": 0,
+  "original": 0
+ },
+ "CN25FI.csv": {
+  "difference": 4,
+  "new": 12,
+  "original": 16
+ },
+ "CN25MU.csv": {
+  "difference": 0,
+  "new": 1,
+  "original": 1
+ },
+ "CN25RE.csv": {
+  "difference": 1,
+  "new": 2,
+  "original": 3
+ },
+ "CN25SI.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "CN25SN.csv": {
+  "difference": 10,
+  "new": 4,
+  "original": 14
+ },
+ "CN25TH.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "CN25WA.csv": {
+  "difference": 0,
+  "new": 5,
+  "original": 5
+ },
+ "CR25EI.csv": {
+  "difference": 5,
+  "new": 3,
+  "original": 8
+ },
+ "CR25FI.csv": {
+  "difference": 11,
+  "new": 13,
+  "original": 24
+ },
+ "CR25MU.csv": {
+  "difference": 6,
+  "new": 3,
+  "original": 9
+ },
+ "CR25RE.csv": {
+  "difference": 7,
+  "new": 4,
+  "original": 11
+ },
+ "CR25SI.csv": {
+  "difference": 6,
+  "new": 4,
+  "original": 10
+ },
+ "CR25SN.csv": {
+  "difference": 12,
+  "new": 6,
+  "original": 18
+ },
+ "CR25TH.csv": {
+  "difference": 5,
+  "new": 5,
+  "original": 10
+ },
+ "CR25WA.csv": {
+  "difference": 5,
+  "new": 8,
+  "original": 13
+ },
+ "CS25EI.csv": {
+  "difference": 46,
+  "new": 83,
+  "original": 129
+ },
+ "CS25FI.csv": {
+  "difference": 53,
+  "new": 92,
+  "original": 145
+ },
+ "CS25MU.csv": {
+  "difference": 46,
+  "new": 84,
+  "original": 130
+ },
+ "CS25RE.csv": {
+  "difference": 51,
+  "new": 86,
+  "original": 137
+ },
+ "CS25SI.csv": {
+  "difference": 45,
+  "new": 86,
+  "original": 131
+ },
+ "CS25SN.csv": {
+  "difference": 58,
+  "new": 85,
+  "original": 143
+ },
+ "CS25TH.csv": {
+  "difference": 46,
+  "new": 85,
+  "original": 131
+ },
+ "CS25WA.csv": {
+  "difference": 47,
+  "new": 89,
+  "original": 136
+ },
+ "CS26EI.csv": {
+  "difference": 3,
+  "new": 19,
+  "original": 22
+ },
+ "CS26FI.csv": {
+  "difference": 9,
+  "new": 29,
+  "original": 38
+ },
+ "CS26MU.csv": {
+  "difference": 3,
+  "new": 20,
+  "original": 23
+ },
+ "CS26RE.csv": {
+  "difference": 4,
+  "new": 20,
+  "original": 24
+ },
+ "CS26SI.csv": {
+  "difference": 0,
+  "new": 24,
+  "original": 24
+ },
+ "CS26SN.csv": {
+  "difference": 9,
+  "new": 23,
+  "original": 32
+ },
+ "CS26TH.csv": {
+  "difference": 3,
+  "new": 21,
+  "original": 24
+ },
+ "CS26WA.csv": {
+  "difference": 5,
+  "new": 24,
+  "original": 29
+ },
+ "CS27EI.csv": {
+  "difference": 68,
+  "new": 61,
+  "original": 129
+ },
+ "CS27FI.csv": {
+  "difference": 83,
+  "new": 59,
+  "original": 142
+ },
+ "CS27MU.csv": {
+  "difference": 74,
+  "new": 56,
+  "original": 130
+ },
+ "CS27RE.csv": {
+  "difference": 76,
+  "new": 57,
+  "original": 133
+ },
+ "CS27SI.csv": {
+  "difference": 74,
+  "new": 57,
+  "original": 131
+ },
+ "CS27SN.csv": {
+  "difference": 84,
+  "new": 59,
+  "original": 143
+ },
+ "CS27TH.csv": {
+  "difference": 72,
+  "new": 59,
+  "original": 131
+ },
+ "CS27WA.csv": {
+  "difference": 79,
+  "new": 59,
+  "original": 138
+ },
+ "DS25EI.csv": {
+  "difference": 18,
+  "new": 62,
+  "original": 80
+ },
+ "DS25FI.csv": {
+  "difference": 37,
+  "new": 59,
+  "original": 96
+ },
+ "DS25MU.csv": {
+  "difference": 23,
+  "new": 58,
+  "original": 81
+ },
+ "DS25RE.csv": {
+  "difference": 22,
+  "new": 60,
+  "original": 82
+ },
+ "DS25SI.csv": {
+  "difference": 24,
+  "new": 58,
+  "original": 82
+ },
+ "DS25SN.csv": {
+  "difference": 40,
+  "new": 54,
+  "original": 94
+ },
+ "DS25TH.csv": {
+  "difference": 23,
+  "new": 59,
+  "original": 82
+ },
+ "DS25WA.csv": {
+  "difference": 23,
+  "new": 62,
+  "original": 85
+ },
+ "EC26EI.csv": {
+  "difference": 40,
+  "new": 82,
+  "original": 122
+ },
+ "EC26FI.csv": {
+  "difference": 46,
+  "new": 87,
+  "original": 133
+ },
+ "EC26MU.csv": {
+  "difference": 40,
+  "new": 83,
+  "original": 123
+ },
+ "EC26RE.csv": {
+  "difference": 41,
+  "new": 83,
+  "original": 124
+ },
+ "EC26SI.csv": {
+  "difference": 40,
+  "new": 84,
+  "original": 124
+ },
+ "EC26SN.csv": {
+  "difference": 54,
+  "new": 84,
+  "original": 138
+ },
+ "EC26TH.csv": {
+  "difference": 40,
+  "new": 84,
+  "original": 124
+ },
+ "EC26WA.csv": {
+  "difference": 42,
+  "new": 87,
+  "original": 129
+ },
+ "EC27EI.csv": {
+  "difference": 29,
+  "new": 64,
+  "original": 93
+ },
+ "EC27FI.csv": {
+  "difference": 38,
+  "new": 71,
+  "original": 109
+ },
+ "EC27MU.csv": {
+  "difference": 29,
+  "new": 65,
+  "original": 94
+ },
+ "EC27RE.csv": {
+  "difference": 33,
+  "new": 62,
+  "original": 95
+ },
+ "EC27SI.csv": {
+  "difference": 29,
+  "new": 66,
+  "original": 95
+ },
+ "EC27SN.csv": {
+  "difference": 36,
+  "new": 67,
+  "original": 103
+ },
+ "EC27TH.csv": {
+  "difference": 29,
+  "new": 66,
+  "original": 95
+ },
+ "EC27WA.csv": {
+  "difference": 31,
+  "new": 67,
+  "original": 98
+ },
+ "EC28EI.csv": {
+  "difference": 67,
+  "new": 178,
+  "original": 245
+ },
+ "EC28FI.csv": {
+  "difference": 78,
+  "new": 183,
+  "original": 261
+ },
+ "EC28MU.csv": {
+  "difference": 68,
+  "new": 178,
+  "original": 246
+ },
+ "EC28RE.csv": {
+  "difference": 64,
+  "new": 183,
+  "original": 247
+ },
+ "EC28SI.csv": {
+  "difference": 71,
+  "new": 176,
+  "original": 247
+ },
+ "EC28SN.csv": {
+  "difference": 75,
+  "new": 180,
+  "original": 255
+ },
+ "EC28TH.csv": {
+  "difference": 67,
+  "new": 180,
+  "original": 247
+ },
+ "EC28WA.csv": {
+  "difference": 72,
+  "new": 178,
+  "original": 250
+ },
+ "EC37EI.csv": {
+  "difference": 27,
+  "new": 59,
+  "original": 86
+ },
+ "EC37FI.csv": {
+  "difference": 34,
+  "new": 68,
+  "original": 102
+ },
+ "EC37MU.csv": {
+  "difference": 28,
+  "new": 59,
+  "original": 87
+ },
+ "EC37RE.csv": {
+  "difference": 29,
+  "new": 59,
+  "original": 88
+ },
+ "EC37SI.csv": {
+  "difference": 29,
+  "new": 62,
+  "original": 91
+ },
+ "EC37SN.csv": {
+  "difference": 35,
+  "new": 61,
+  "original": 96
+ },
+ "EC37TH.csv": {
+  "difference": 27,
+  "new": 61,
+  "original": 88
+ },
+ "EC37WA.csv": {
+  "difference": 29,
+  "new": 62,
+  "original": 91
+ },
+ "ED25EI.csv": {
+  "difference": 0,
+  "new": 0,
+  "original": 0
+ },
+ "ED25FI.csv": {
+  "difference": 4,
+  "new": 12,
+  "original": 16
+ },
+ "ED25MU.csv": {
+  "difference": 0,
+  "new": 1,
+  "original": 1
+ },
+ "ED25RE.csv": {
+  "difference": 1,
+  "new": 2,
+  "original": 3
+ },
+ "ED25SI.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "ED25SN.csv": {
+  "difference": 6,
+  "new": 4,
+  "original": 10
+ },
+ "ED25TH.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "ED25WA.csv": {
+  "difference": 0,
+  "new": 5,
+  "original": 5
+ },
+ "EN25EI.csv": {
+  "difference": 20,
+  "new": 28,
+  "original": 48
+ },
+ "EN25FI.csv": {
+  "difference": 29,
+  "new": 35,
+  "original": 64
+ },
+ "EN25MU.csv": {
+  "difference": 26,
+  "new": 23,
+  "original": 49
+ },
+ "EN25RE.csv": {
+  "difference": 28,
+  "new": 22,
+  "original": 50
+ },
+ "EN25SI.csv": {
+  "difference": 25,
+  "new": 25,
+  "original": 50
+ },
+ "EN25SN.csv": {
+  "difference": 33,
+  "new": 25,
+  "original": 58
+ },
+ "EN25TH.csv": {
+  "difference": 25,
+  "new": 25,
+  "original": 50
+ },
+ "EN25WA.csv": {
+  "difference": 26,
+  "new": 27,
+  "original": 53
+ },
+ "EN28EI.csv": {
+  "difference": 2,
+  "new": 12,
+  "original": 14
+ },
+ "EN28FI.csv": {
+  "difference": 7,
+  "new": 23,
+  "original": 30
+ },
+ "EN28MU.csv": {
+  "difference": 3,
+  "new": 12,
+  "original": 15
+ },
+ "EN28RE.csv": {
+  "difference": 4,
+  "new": 12,
+  "original": 16
+ },
+ "EN28SI.csv": {
+  "difference": 2,
+  "new": 14,
+  "original": 16
+ },
+ "EN28SN.csv": {
+  "difference": 9,
+  "new": 15,
+  "original": 24
+ },
+ "EN28TH.csv": {
+  "difference": 2,
+  "new": 14,
+  "original": 16
+ },
+ "EN28WA.csv": {
+  "difference": 3,
+  "new": 16,
+  "original": 19
+ },
+ "EN30EI.csv": {
+  "difference": 15,
+  "new": 26,
+  "original": 41
+ },
+ "EN30FI.csv": {
+  "difference": 15,
+  "new": 42,
+  "original": 57
+ },
+ "EN30MU.csv": {
+  "difference": 15,
+  "new": 27,
+  "original": 42
+ },
+ "EN30RE.csv": {
+  "difference": 12,
+  "new": 31,
+  "original": 43
+ },
+ "EN30SI.csv": {
+  "difference": 15,
+  "new": 28,
+  "original": 43
+ },
+ "EN30SN.csv": {
+  "difference": 29,
+  "new": 26,
+  "original": 55
+ },
+ "EN30TH.csv": {
+  "difference": 15,
+  "new": 28,
+  "original": 43
+ },
+ "EN30WA.csv": {
+  "difference": 14,
+  "new": 32,
+  "original": 46
+ },
+ "ES25EI.csv": {
+  "difference": 28,
+  "new": 35,
+  "original": 63
+ },
+ "ES25FI.csv": {
+  "difference": 36,
+  "new": 43,
+  "original": 79
+ },
+ "ES25MU.csv": {
+  "difference": 31,
+  "new": 33,
+  "original": 64
+ },
+ "ES25RE.csv": {
+  "difference": 31,
+  "new": 34,
+  "original": 65
+ },
+ "ES25SI.csv": {
+  "difference": 31,
+  "new": 34,
+  "original": 65
+ },
+ "ES25SN.csv": {
+  "difference": 39,
+  "new": 34,
+  "original": 73
+ },
+ "ES25TH.csv": {
+  "difference": 32,
+  "new": 33,
+  "original": 65
+ },
+ "ES25WA.csv": {
+  "difference": 32,
+  "new": 36,
+  "original": 68
+ },
+ "ES26EI.csv": {
+  "difference": 29,
+  "new": 34,
+  "original": 63
+ },
+ "ES26FI.csv": {
+  "difference": 37,
+  "new": 42,
+  "original": 79
+ },
+ "ES26MU.csv": {
+  "difference": 28,
+  "new": 36,
+  "original": 64
+ },
+ "ES26RE.csv": {
+  "difference": 30,
+  "new": 35,
+  "original": 65
+ },
+ "ES26SI.csv": {
+  "difference": 29,
+  "new": 36,
+  "original": 65
+ },
+ "ES26SN.csv": {
+  "difference": 36,
+  "new": 37,
+  "original": 73
+ },
+ "ES26TH.csv": {
+  "difference": 29,
+  "new": 36,
+  "original": 65
+ },
+ "ES26WA.csv": {
+  "difference": 31,
+  "new": 37,
+  "original": 68
+ },
+ "ES27EI.csv": {
+  "difference": 26,
+  "new": 44,
+  "original": 70
+ },
+ "ES27FI.csv": {
+  "difference": 37,
+  "new": 49,
+  "original": 86
+ },
+ "ES27MU.csv": {
+  "difference": 26,
+  "new": 45,
+  "original": 71
+ },
+ "ES27RE.csv": {
+  "difference": 28,
+  "new": 44,
+  "original": 72
+ },
+ "ES27SI.csv": {
+  "difference": 29,
+  "new": 43,
+  "original": 72
+ },
+ "ES27SN.csv": {
+  "difference": 36,
+  "new": 44,
+  "original": 80
+ },
+ "ES27TH.csv": {
+  "difference": 29,
+  "new": 43,
+  "original": 72
+ },
+ "ES27WA.csv": {
+  "difference": 30,
+  "new": 45,
+  "original": 75
+ },
+ "ES28EI.csv": {
+  "difference": 25,
+  "new": 32,
+  "original": 57
+ },
+ "ES28FI.csv": {
+  "difference": 32,
+  "new": 41,
+  "original": 73
+ },
+ "ES28MU.csv": {
+  "difference": 25,
+  "new": 33,
+  "original": 58
+ },
+ "ES28RE.csv": {
+  "difference": 26,
+  "new": 33,
+  "original": 59
+ },
+ "ES28SI.csv": {
+  "difference": 26,
+  "new": 33,
+  "original": 59
+ },
+ "ES28SN.csv": {
+  "difference": 31,
+  "new": 36,
+  "original": 67
+ },
+ "ES28TH.csv": {
+  "difference": 26,
+  "new": 33,
+  "original": 59
+ },
+ "ES28WA.csv": {
+  "difference": 26,
+  "new": 36,
+  "original": 62
+ },
+ "ET25EI.csv": {
+  "difference": 8,
+  "new": 5,
+  "original": 13
+ },
+ "ET25FI.csv": {
+  "difference": 14,
+  "new": 15,
+  "original": 29
+ },
+ "ET25MU.csv": {
+  "difference": 8,
+  "new": 6,
+  "original": 14
+ },
+ "ET25RE.csv": {
+  "difference": 9,
+  "new": 7,
+  "original": 16
+ },
+ "ET25SI.csv": {
+  "difference": 8,
+  "new": 7,
+  "original": 15
+ },
+ "ET25SN.csv": {
+  "difference": 14,
+  "new": 9,
+  "original": 23
+ },
+ "ET25TH.csv": {
+  "difference": 8,
+  "new": 7,
+  "original": 15
+ },
+ "ET25WA.csv": {
+  "difference": 0,
+  "new": 18,
+  "original": 18
+ },
+ "GH25EI.csv": {
+  "difference": 0,
+  "new": 0,
+  "original": 0
+ },
+ "GH25FI.csv": {
+  "difference": 4,
+  "new": 12,
+  "original": 16
+ },
+ "GH25MU.csv": {
+  "difference": 0,
+  "new": 1,
+  "original": 1
+ },
+ "GH25RE.csv": {
+  "difference": 1,
+  "new": 3,
+  "original": 4
+ },
+ "GH25SI.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "GH25SN.csv": {
+  "difference": 6,
+  "new": 4,
+  "original": 10
+ },
+ "GH25TH.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "GH25WA.csv": {
+  "difference": 0,
+  "new": 5,
+  "original": 5
+ },
+ "GH26EI.csv": {
+  "difference": 2,
+  "new": 7,
+  "original": 9
+ },
+ "GH26FI.csv": {
+  "difference": 9,
+  "new": 16,
+  "original": 25
+ },
+ "GH26MU.csv": {
+  "difference": 3,
+  "new": 7,
+  "original": 10
+ },
+ "GH26RE.csv": {
+  "difference": 3,
+  "new": 9,
+  "original": 12
+ },
+ "GH26SI.csv": {
+  "difference": 3,
+  "new": 8,
+  "original": 11
+ },
+ "GH26SN.csv": {
+  "difference": 9,
+  "new": 10,
+  "original": 19
+ },
+ "GH26TH.csv": {
+  "difference": 3,
+  "new": 8,
+  "original": 11
+ },
+ "GH26WA.csv": {
+  "difference": 3,
+  "new": 11,
+  "original": 14
+ },
+ "GL25EI.csv": {
+  "difference": 0,
+  "new": 0,
+  "original": 0
+ },
+ "GL25FI.csv": {
+  "difference": 4,
+  "new": 7,
+  "original": 11
+ },
+ "GL25MU.csv": {
+  "difference": 0,
+  "new": 1,
+  "original": 1
+ },
+ "GL25RE.csv": {
+  "difference": 1,
+  "new": 2,
+  "original": 3
+ },
+ "GL25SI.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "GL25SN.csv": {
+  "difference": 6,
+  "new": 4,
+  "original": 10
+ },
+ "GL25TH.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "GL25WA.csv": {
+  "difference": 0,
+  "new": 5,
+  "original": 5
+ },
+ "GS25EI.csv": {
+  "difference": 0,
+  "new": 12,
+  "original": 12
+ },
+ "GS25FI.csv": {
+  "difference": 4,
+  "new": 24,
+  "original": 28
+ },
+ "GS25MU.csv": {
+  "difference": 0,
+  "new": 13,
+  "original": 13
+ },
+ "GS25RE.csv": {
+  "difference": 0,
+  "new": 15,
+  "original": 15
+ },
+ "GS25SI.csv": {
+  "difference": 0,
+  "new": 14,
+  "original": 14
+ },
+ "GS25SN.csv": {
+  "difference": 6,
+  "new": 16,
+  "original": 22
+ },
+ "GS25TH.csv": {
+  "difference": 0,
+  "new": 14,
+  "original": 14
+ },
+ "GS25WA.csv": {
+  "difference": 0,
+  "new": 17,
+  "original": 17
+ },
+ "HI25EI.csv": {
+  "difference": 0,
+  "new": 0,
+  "original": 0
+ },
+ "HI25FI.csv": {
+  "difference": 6,
+  "new": 10,
+  "original": 16
+ },
+ "HI25MU.csv": {
+  "difference": 0,
+  "new": 1,
+  "original": 1
+ },
+ "HI25RE.csv": {
+  "difference": 1,
+  "new": 2,
+  "original": 3
+ },
+ "HI25SI.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "HI25SN.csv": {
+  "difference": 6,
+  "new": 4,
+  "original": 10
+ },
+ "HI25TH.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "HI25WA.csv": {
+  "difference": 0,
+  "new": 5,
+  "original": 5
+ },
+ "HS25EI.csv": {
+  "difference": 8,
+  "new": 9,
+  "original": 17
+ },
+ "HS25FI.csv": {
+  "difference": 17,
+  "new": 16,
+  "original": 33
+ },
+ "HS25MU.csv": {
+  "difference": 10,
+  "new": 6,
+  "original": 16
+ },
+ "HS25RE.csv": {
+  "difference": 12,
+  "new": 8,
+  "original": 20
+ },
+ "HS25SI.csv": {
+  "difference": 11,
+  "new": 8,
+  "original": 19
+ },
+ "HS25SN.csv": {
+  "difference": 15,
+  "new": 10,
+  "original": 25
+ },
+ "HS25TH.csv": {
+  "difference": 10,
+  "new": 7,
+  "original": 17
+ },
+ "HS25WA.csv": {
+  "difference": 10,
+  "new": 10,
+  "original": 20
+ },
+ "HS26EI.csv": {
+  "difference": 5,
+  "new": 12,
+  "original": 17
+ },
+ "HS26FI.csv": {
+  "difference": 16,
+  "new": 15,
+  "original": 31
+ },
+ "HS26MU.csv": {
+  "difference": 10,
+  "new": 6,
+  "original": 16
+ },
+ "HS26RE.csv": {
+  "difference": 10,
+  "new": 10,
+  "original": 20
+ },
+ "HS26SI.csv": {
+  "difference": 10,
+  "new": 7,
+  "original": 17
+ },
+ "HS26SN.csv": {
+  "difference": 15,
+  "new": 10,
+  "original": 25
+ },
+ "HS26TH.csv": {
+  "difference": 10,
+  "new": 7,
+  "original": 17
+ },
+ "HS26WA.csv": {
+  "difference": 10,
+  "new": 10,
+  "original": 20
+ },
+ "HS27EI.csv": {
+  "difference": 13,
+  "new": 6,
+  "original": 19
+ },
+ "HS27FI.csv": {
+  "difference": 17,
+  "new": 15,
+  "original": 32
+ },
+ "HS27MU.csv": {
+  "difference": 11,
+  "new": 6,
+  "original": 17
+ },
+ "HS27RE.csv": {
+  "difference": 14,
+  "new": 8,
+  "original": 22
+ },
+ "HS27SI.csv": {
+  "difference": 11,
+  "new": 7,
+  "original": 18
+ },
+ "HS27SN.csv": {
+  "difference": 16,
+  "new": 10,
+  "original": 26
+ },
+ "HS27TH.csv": {
+  "difference": 11,
+  "new": 7,
+  "original": 18
+ },
+ "HS27WA.csv": {
+  "difference": 11,
+  "new": 10,
+  "original": 21
+ },
+ "HS28EI.csv": {
+  "difference": 10,
+  "new": 7,
+  "original": 17
+ },
+ "HS28FI.csv": {
+  "difference": 16,
+  "new": 15,
+  "original": 31
+ },
+ "HS28MU.csv": {
+  "difference": 10,
+  "new": 6,
+  "original": 16
+ },
+ "HS28RE.csv": {
+  "difference": 11,
+  "new": 9,
+  "original": 20
+ },
+ "HS28SI.csv": {
+  "difference": 10,
+  "new": 7,
+  "original": 17
+ },
+ "HS28SN.csv": {
+  "difference": 15,
+  "new": 10,
+  "original": 25
+ },
+ "HS28TH.csv": {
+  "difference": 10,
+  "new": 7,
+  "original": 17
+ },
+ "HS28WA.csv": {
+  "difference": 10,
+  "new": 10,
+  "original": 20
+ },
+ "IS25EI.csv": {
+  "difference": 4,
+  "new": 1,
+  "original": 5
+ },
+ "IS25FI.csv": {
+  "difference": 12,
+  "new": 18,
+  "original": 30
+ },
+ "IS25MU.csv": {
+  "difference": 10,
+  "new": 5,
+  "original": 15
+ },
+ "IS25RE.csv": {
+  "difference": 10,
+  "new": 5,
+  "original": 15
+ },
+ "IS25SI.csv": {
+  "difference": 4,
+  "new": 12,
+  "original": 16
+ },
+ "IS25SN.csv": {
+  "difference": 13,
+  "new": 11,
+  "original": 24
+ },
+ "IS25TH.csv": {
+  "difference": 7,
+  "new": 9,
+  "original": 16
+ },
+ "IS25WA.csv": {
+  "difference": 9,
+  "new": 6,
+  "original": 15
+ },
+ "IS26EI.csv": {
+  "difference": 5,
+  "new": 5,
+  "original": 10
+ },
+ "IS26FI.csv": {
+  "difference": 18,
+  "new": 17,
+  "original": 35
+ },
+ "IS26MU.csv": {
+  "difference": 12,
+  "new": 8,
+  "original": 20
+ },
+ "IS26RE.csv": {
+  "difference": 11,
+  "new": 8,
+  "original": 19
+ },
+ "IS26SI.csv": {
+  "difference": 12,
+  "new": 9,
+  "original": 21
+ },
+ "IS26SN.csv": {
+  "difference": 18,
+  "new": 11,
+  "original": 29
+ },
+ "IS26TH.csv": {
+  "difference": 11,
+  "new": 10,
+  "original": 21
+ },
+ "IS26WA.csv": {
+  "difference": 11,
+  "new": 13,
+  "original": 24
+ },
+ "IS27EI.csv": {
+  "difference": 4,
+  "new": 1,
+  "original": 5
+ },
+ "IS27FI.csv": {
+  "difference": 12,
+  "new": 18,
+  "original": 30
+ },
+ "IS27MU.csv": {
+  "difference": 11,
+  "new": 4,
+  "original": 15
+ },
+ "IS27RE.csv": {
+  "difference": 10,
+  "new": 5,
+  "original": 15
+ },
+ "IS27SI.csv": {
+  "difference": 4,
+  "new": 12,
+  "original": 16
+ },
+ "IS27SN.csv": {
+  "difference": 13,
+  "new": 11,
+  "original": 24
+ },
+ "IS27TH.csv": {
+  "difference": 7,
+  "new": 9,
+  "original": 16
+ },
+ "IS27WA.csv": {
+  "difference": 9,
+  "new": 10,
+  "original": 19
+ },
+ "IS28EI.csv": {
+  "difference": 4,
+  "new": 1,
+  "original": 5
+ },
+ "IS28FI.csv": {
+  "difference": 12,
+  "new": 18,
+  "original": 30
+ },
+ "IS28MU.csv": {
+  "difference": 11,
+  "new": 4,
+  "original": 15
+ },
+ "IS28RE.csv": {
+  "difference": 10,
+  "new": 5,
+  "original": 15
+ },
+ "IS28SI.csv": {
+  "difference": 4,
+  "new": 12,
+  "original": 16
+ },
+ "IS28SN.csv": {
+  "difference": 13,
+  "new": 11,
+  "original": 24
+ },
+ "IS28TH.csv": {
+  "difference": 7,
+  "new": 9,
+  "original": 16
+ },
+ "IS28WA.csv": {
+  "difference": 9,
+  "new": 10,
+  "original": 19
+ },
+ "IS29EI.csv": {
+  "difference": 4,
+  "new": 1,
+  "original": 5
+ },
+ "IS29FI.csv": {
+  "difference": 12,
+  "new": 18,
+  "original": 30
+ },
+ "IS29MU.csv": {
+  "difference": 11,
+  "new": 4,
+  "original": 15
+ },
+ "IS29RE.csv": {
+  "difference": 10,
+  "new": 5,
+  "original": 15
+ },
+ "IS29SI.csv": {
+  "difference": 4,
+  "new": 12,
+  "original": 16
+ },
+ "IS29SN.csv": {
+  "difference": 13,
+  "new": 11,
+  "original": 24
+ },
+ "IS29TH.csv": {
+  "difference": 7,
+  "new": 9,
+  "original": 16
+ },
+ "IS29WA.csv": {
+  "difference": 9,
+  "new": 10,
+  "original": 19
+ },
+ "IS30EI.csv": {
+  "difference": 4,
+  "new": 1,
+  "original": 5
+ },
+ "IS30FI.csv": {
+  "difference": 12,
+  "new": 18,
+  "original": 30
+ },
+ "IS30MU.csv": {
+  "difference": 11,
+  "new": 4,
+  "original": 15
+ },
+ "IS30RE.csv": {
+  "difference": 10,
+  "new": 5,
+  "original": 15
+ },
+ "IS30SI.csv": {
+  "difference": 4,
+  "new": 12,
+  "original": 16
+ },
+ "IS30SN.csv": {
+  "difference": 13,
+  "new": 11,
+  "original": 24
+ },
+ "IS30TH.csv": {
+  "difference": 7,
+  "new": 9,
+  "original": 16
+ },
+ "IS30WA.csv": {
+  "difference": 8,
+  "new": 11,
+  "original": 19
+ },
+ "IS31EI.csv": {
+  "difference": 4,
+  "new": 1,
+  "original": 5
+ },
+ "IS31FI.csv": {
+  "difference": 12,
+  "new": 18,
+  "original": 30
+ },
+ "IS31MU.csv": {
+  "difference": 11,
+  "new": 4,
+  "original": 15
+ },
+ "IS31RE.csv": {
+  "difference": 10,
+  "new": 5,
+  "original": 15
+ },
+ "IS31SI.csv": {
+  "difference": 4,
+  "new": 12,
+  "original": 16
+ },
+ "IS31SN.csv": {
+  "difference": 13,
+  "new": 11,
+  "original": 24
+ },
+ "IS31TH.csv": {
+  "difference": 7,
+  "new": 9,
+  "original": 16
+ },
+ "IS31WA.csv": {
+  "difference": 9,
+  "new": 10,
+  "original": 19
+ },
+ "IS34EI.csv": {
+  "difference": 15,
+  "new": 12,
+  "original": 27
+ },
+ "IS34FI.csv": {
+  "difference": 31,
+  "new": 21,
+  "original": 52
+ },
+ "IS34MU.csv": {
+  "difference": 24,
+  "new": 13,
+  "original": 37
+ },
+ "IS34RE.csv": {
+  "difference": 22,
+  "new": 14,
+  "original": 36
+ },
+ "IS34SI.csv": {
+  "difference": 23,
+  "new": 15,
+  "original": 38
+ },
+ "IS34SN.csv": {
+  "difference": 29,
+  "new": 17,
+  "original": 46
+ },
+ "IS34TH.csv": {
+  "difference": 23,
+  "new": 15,
+  "original": 38
+ },
+ "IS34WA.csv": {
+  "difference": 24,
+  "new": 17,
+  "original": 41
+ },
+ "IS36EI.csv": {
+  "difference": 4,
+  "new": 1,
+  "original": 5
+ },
+ "IS36FI.csv": {
+  "difference": 17,
+  "new": 13,
+  "original": 30
+ },
+ "IS36MU.csv": {
+  "difference": 11,
+  "new": 4,
+  "original": 15
+ },
+ "IS36RE.csv": {
+  "difference": 10,
+  "new": 5,
+  "original": 15
+ },
+ "IS36SI.csv": {
+  "difference": 10,
+  "new": 6,
+  "original": 16
+ },
+ "IS36SN.csv": {
+  "difference": 13,
+  "new": 11,
+  "original": 24
+ },
+ "IS36TH.csv": {
+  "difference": 10,
+  "new": 6,
+  "original": 16
+ },
+ "IS36WA.csv": {
+  "difference": 10,
+  "new": 9,
+  "original": 19
+ },
+ "IT25EI.csv": {
+  "difference": 0,
+  "new": 11,
+  "original": 11
+ },
+ "IT25FI.csv": {
+  "difference": 4,
+  "new": 23,
+  "original": 27
+ },
+ "IT25MU.csv": {
+  "difference": 0,
+  "new": 12,
+  "original": 12
+ },
+ "IT25RE.csv": {
+  "difference": 0,
+  "new": 14,
+  "original": 14
+ },
+ "IT25SI.csv": {
+  "difference": 0,
+  "new": 13,
+  "original": 13
+ },
+ "IT25SN.csv": {
+  "difference": 6,
+  "new": 15,
+  "original": 21
+ },
+ "IT25TH.csv": {
+  "difference": 0,
+  "new": 13,
+  "original": 13
+ },
+ "IT25WA.csv": {
+  "difference": 0,
+  "new": 16,
+  "original": 16
+ },
+ "JA25EI.csv": {
+  "difference": 0,
+  "new": 11,
+  "original": 11
+ },
+ "JA25FI.csv": {
+  "difference": 0,
+  "new": 27,
+  "original": 27
+ },
+ "JA25MU.csv": {
+  "difference": 0,
+  "new": 12,
+  "original": 12
+ },
+ "JA25RE.csv": {
+  "difference": 1,
+  "new": 13,
+  "original": 14
+ },
+ "JA25SI.csv": {
+  "difference": 0,
+  "new": 13,
+  "original": 13
+ },
+ "JA25SN.csv": {
+  "difference": 2,
+  "new": 19,
+  "original": 21
+ },
+ "JA25TH.csv": {
+  "difference": 0,
+  "new": 13,
+  "original": 13
+ },
+ "JA25WA.csv": {
+  "difference": 0,
+  "new": 16,
+  "original": 16
+ },
+ "JS25EI.csv": {
+  "difference": 0,
+  "new": 5,
+  "original": 5
+ },
+ "JS25FI.csv": {
+  "difference": 6,
+  "new": 15,
+  "original": 21
+ },
+ "JS25MU.csv": {
+  "difference": 0,
+  "new": 6,
+  "original": 6
+ },
+ "JS25RE.csv": {
+  "difference": 0,
+  "new": 8,
+  "original": 8
+ },
+ "JS25SI.csv": {
+  "difference": 0,
+  "new": 7,
+  "original": 7
+ },
+ "JS25SN.csv": {
+  "difference": 6,
+  "new": 9,
+  "original": 15
+ },
+ "JS25TH.csv": {
+  "difference": 0,
+  "new": 7,
+  "original": 7
+ },
+ "JS25WA.csv": {
+  "difference": 0,
+  "new": 10,
+  "original": 10
+ },
+ "LA25EI.csv": {
+  "difference": 2,
+  "new": 11,
+  "original": 13
+ },
+ "LA25FI.csv": {
+  "difference": 8,
+  "new": 21,
+  "original": 29
+ },
+ "LA25MU.csv": {
+  "difference": 0,
+  "new": 0,
+  "original": 0
+ },
+ "LA25RE.csv": {
+  "difference": 3,
+  "new": 13,
+  "original": 16
+ },
+ "LA25SI.csv": {
+  "difference": 2,
+  "new": 13,
+  "original": 15
+ },
+ "LA25SN.csv": {
+  "difference": 0,
+  "new": 0,
+  "original": 0
+ },
+ "LA25TH.csv": {
+  "difference": 0,
+  "new": 12,
+  "original": 12
+ },
+ "LA25WA.csv": {
+  "difference": 2,
+  "new": 16,
+  "original": 18
+ },
+ "LA26EI.csv": {
+  "difference": 2,
+  "new": 11,
+  "original": 13
+ },
+ "LA26FI.csv": {
+  "difference": 8,
+  "new": 21,
+  "original": 29
+ },
+ "LA26MU.csv": {
+  "difference": 2,
+  "new": 12,
+  "original": 14
+ },
+ "LA26RE.csv": {
+  "difference": 3,
+  "new": 13,
+  "original": 16
+ },
+ "LA26SI.csv": {
+  "difference": 2,
+  "new": 13,
+  "original": 15
+ },
+ "LA26SN.csv": {
+  "difference": 8,
+  "new": 15,
+  "original": 23
+ },
+ "LA26TH.csv": {
+  "difference": 2,
+  "new": 13,
+  "original": 15
+ },
+ "LA26WA.csv": {
+  "difference": 2,
+  "new": 16,
+  "original": 18
+ },
+ "LA27EI.csv": {
+  "difference": 2,
+  "new": 11,
+  "original": 13
+ },
+ "LA27FI.csv": {
+  "difference": 8,
+  "new": 21,
+  "original": 29
+ },
+ "LA27MU.csv": {
+  "difference": 2,
+  "new": 12,
+  "original": 14
+ },
+ "LA27RE.csv": {
+  "difference": 3,
+  "new": 13,
+  "original": 16
+ },
+ "LA27SI.csv": {
+  "difference": 2,
+  "new": 13,
+  "original": 15
+ },
+ "LA27SN.csv": {
+  "difference": 8,
+  "new": 15,
+  "original": 23
+ },
+ "LA27TH.csv": {
+  "difference": 2,
+  "new": 13,
+  "original": 15
+ },
+ "LA27WA.csv": {
+  "difference": 2,
+  "new": 16,
+  "original": 18
+ },
+ "LN25EI.csv": {
+  "difference": 17,
+  "new": 7,
+  "original": 24
+ },
+ "LN25FI.csv": {
+  "difference": 23,
+  "new": 17,
+  "original": 40
+ },
+ "LN25MU.csv": {
+  "difference": 18,
+  "new": 7,
+  "original": 25
+ },
+ "LN25RE.csv": {
+  "difference": 19,
+  "new": 8,
+  "original": 27
+ },
+ "LN25SI.csv": {
+  "difference": 18,
+  "new": 8,
+  "original": 26
+ },
+ "LN25SN.csv": {
+  "difference": 19,
+  "new": 15,
+  "original": 34
+ },
+ "LN25TH.csv": {
+  "difference": 18,
+  "new": 8,
+  "original": 26
+ },
+ "LN25WA.csv": {
+  "difference": 17,
+  "new": 12,
+  "original": 29
+ },
+ "LN29EI.csv": {
+  "difference": 17,
+  "new": 7,
+  "original": 24
+ },
+ "LN29FI.csv": {
+  "difference": 22,
+  "new": 18,
+  "original": 40
+ },
+ "LN29MU.csv": {
+  "difference": 18,
+  "new": 7,
+  "original": 25
+ },
+ "LN29RE.csv": {
+  "difference": 19,
+  "new": 8,
+  "original": 27
+ },
+ "LN29SI.csv": {
+  "difference": 18,
+  "new": 8,
+  "original": 26
+ },
+ "LN29SN.csv": {
+  "difference": 19,
+  "new": 15,
+  "original": 34
+ },
+ "LN29TH.csv": {
+  "difference": 18,
+  "new": 8,
+  "original": 26
+ },
+ "LN29WA.csv": {
+  "difference": 17,
+  "new": 12,
+  "original": 29
+ },
+ "LN32EI.csv": {
+  "difference": 17,
+  "new": 7,
+  "original": 24
+ },
+ "LN32FI.csv": {
+  "difference": 22,
+  "new": 18,
+  "original": 40
+ },
+ "LN32MU.csv": {
+  "difference": 18,
+  "new": 7,
+  "original": 25
+ },
+ "LN32RE.csv": {
+  "difference": 19,
+  "new": 8,
+  "original": 27
+ },
+ "LN32SI.csv": {
+  "difference": 18,
+  "new": 8,
+  "original": 26
+ },
+ "LN32SN.csv": {
+  "difference": 19,
+  "new": 15,
+  "original": 34
+ },
+ "LN32TH.csv": {
+  "difference": 18,
+  "new": 8,
+  "original": 26
+ },
+ "LN32WA.csv": {
+  "difference": 17,
+  "new": 12,
+  "original": 29
+ },
+ "LN33EI.csv": {
+  "difference": 0,
+  "new": 0,
+  "original": 0
+ },
+ "LN33FI.csv": {
+  "difference": 4,
+  "new": 12,
+  "original": 16
+ },
+ "LN33MU.csv": {
+  "difference": 0,
+  "new": 1,
+  "original": 1
+ },
+ "LN33RE.csv": {
+  "difference": 1,
+  "new": 2,
+  "original": 3
+ },
+ "LN33SI.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "LN33SN.csv": {
+  "difference": 6,
+  "new": 4,
+  "original": 10
+ },
+ "LN33TH.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "LN33WA.csv": {
+  "difference": 0,
+  "new": 5,
+  "original": 5
+ },
+ "LN34EI.csv": {
+  "difference": 18,
+  "new": 6,
+  "original": 24
+ },
+ "LN34FI.csv": {
+  "difference": 24,
+  "new": 16,
+  "original": 40
+ },
+ "LN34MU.csv": {
+  "difference": 18,
+  "new": 7,
+  "original": 25
+ },
+ "LN34RE.csv": {
+  "difference": 19,
+  "new": 8,
+  "original": 27
+ },
+ "LN34SI.csv": {
+  "difference": 18,
+  "new": 8,
+  "original": 26
+ },
+ "LN34SN.csv": {
+  "difference": 24,
+  "new": 10,
+  "original": 34
+ },
+ "LN34TH.csv": {
+  "difference": 18,
+  "new": 8,
+  "original": 26
+ },
+ "LN34WA.csv": {
+  "difference": 18,
+  "new": 11,
+  "original": 29
+ },
+ "LT33EI.csv": {
+  "difference": 0,
+  "new": 13,
+  "original": 13
+ },
+ "LT33FI.csv": {
+  "difference": 4,
+  "new": 25,
+  "original": 29
+ },
+ "LT33MU.csv": {
+  "difference": 0,
+  "new": 14,
+  "original": 14
+ },
+ "LT33RE.csv": {
+  "difference": 1,
+  "new": 15,
+  "original": 16
+ },
+ "LT33SI.csv": {
+  "difference": 0,
+  "new": 15,
+  "original": 15
+ },
+ "LT33SN.csv": {
+  "difference": 6,
+  "new": 17,
+  "original": 23
+ },
+ "LT33TH.csv": {
+  "difference": 0,
+  "new": 15,
+  "original": 15
+ },
+ "LT33WA.csv": {
+  "difference": 0,
+  "new": 18,
+  "original": 18
+ },
+ "LT34EI.csv": {
+  "difference": 0,
+  "new": 0,
+  "original": 0
+ },
+ "LT34FI.csv": {
+  "difference": 0,
+  "new": 31,
+  "original": 31
+ },
+ "LT34MU.csv": {
+  "difference": 10,
+  "new": 12,
+  "original": 22
+ },
+ "LT34RE.csv": {
+  "difference": 4,
+  "new": 14,
+  "original": 18
+ },
+ "LT34SI.csv": {
+  "difference": 4,
+  "new": 13,
+  "original": 17
+ },
+ "LT34SN.csv": {
+  "difference": 5,
+  "new": 17,
+  "original": 22
+ },
+ "LT34TH.csv": {
+  "difference": 4,
+  "new": 13,
+  "original": 17
+ },
+ "LT34WA.csv": {
+  "difference": 6,
+  "new": 20,
+  "original": 26
+ },
+ "LT36EI.csv": {
+  "difference": 0,
+  "new": 0,
+  "original": 0
+ },
+ "LT36FI.csv": {
+  "difference": 4,
+  "new": 12,
+  "original": 16
+ },
+ "LT36MU.csv": {
+  "difference": 0,
+  "new": 1,
+  "original": 1
+ },
+ "LT36RE.csv": {
+  "difference": 1,
+  "new": 2,
+  "original": 3
+ },
+ "LT36SI.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "LT36TH.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "LT36WA.csv": {
+  "difference": 0,
+  "new": 5,
+  "original": 5
+ },
+ "LT41EI.csv": {
+  "difference": 0,
+  "new": 0,
+  "original": 0
+ },
+ "LT41FI.csv": {
+  "difference": 4,
+  "new": 12,
+  "original": 16
+ },
+ "LT41MU.csv": {
+  "difference": 0,
+  "new": 1,
+  "original": 1
+ },
+ "LT41RE.csv": {
+  "difference": 1,
+  "new": 2,
+  "original": 3
+ },
+ "LT41SI.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "LT41SN.csv": {
+  "difference": 6,
+  "new": 4,
+  "original": 10
+ },
+ "LT41TH.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "LT41WA.csv": {
+  "difference": 0,
+  "new": 5,
+  "original": 5
+ },
+ "MA27EI.csv": {
+  "difference": 7,
+  "new": 8,
+  "original": 15
+ },
+ "MA27FI.csv": {
+  "difference": 9,
+  "new": 22,
+  "original": 31
+ },
+ "MA27MU.csv": {
+  "difference": 7,
+  "new": 9,
+  "original": 16
+ },
+ "MA27RE.csv": {
+  "difference": 6,
+  "new": 11,
+  "original": 17
+ },
+ "MA27SI.csv": {
+  "difference": 5,
+  "new": 12,
+  "original": 17
+ },
+ "MA27SN.csv": {
+  "difference": 13,
+  "new": 12,
+  "original": 25
+ },
+ "MA27TH.csv": {
+  "difference": 7,
+  "new": 10,
+  "original": 17
+ },
+ "MA27WA.csv": {
+  "difference": 7,
+  "new": 13,
+  "original": 20
+ },
+ "MA29EI.csv": {
+  "difference": 5,
+  "new": 7,
+  "original": 12
+ },
+ "MA29FI.csv": {
+  "difference": 9,
+  "new": 19,
+  "original": 28
+ },
+ "MA29MU.csv": {
+  "difference": 5,
+  "new": 8,
+  "original": 13
+ },
+ "MA29RE.csv": {
+  "difference": 5,
+  "new": 9,
+  "original": 14
+ },
+ "MA29SI.csv": {
+  "difference": 4,
+  "new": 10,
+  "original": 14
+ },
+ "MA29SN.csv": {
+  "difference": 11,
+  "new": 11,
+  "original": 22
+ },
+ "MA29TH.csv": {
+  "difference": 5,
+  "new": 9,
+  "original": 14
+ },
+ "MA29WA.csv": {
+  "difference": 5,
+  "new": 12,
+  "original": 17
+ },
+ "MA30EI.csv": {
+  "difference": 11,
+  "new": 15,
+  "original": 26
+ },
+ "MA30FI.csv": {
+  "difference": 19,
+  "new": 23,
+  "original": 42
+ },
+ "MA30MU.csv": {
+  "difference": 12,
+  "new": 15,
+  "original": 27
+ },
+ "MA30RE.csv": {
+  "difference": 12,
+  "new": 16,
+  "original": 28
+ },
+ "MA30SI.csv": {
+  "difference": 12,
+  "new": 16,
+  "original": 28
+ },
+ "MA30SN.csv": {
+  "difference": 19,
+  "new": 17,
+  "original": 36
+ },
+ "MA30TH.csv": {
+  "difference": 11,
+  "new": 17,
+  "original": 28
+ },
+ "MA30WA.csv": {
+  "difference": 13,
+  "new": 18,
+  "original": 31
+ },
+ "MA31EI.csv": {
+  "difference": 7,
+  "new": 8,
+  "original": 15
+ },
+ "MA31FI.csv": {
+  "difference": 9,
+  "new": 22,
+  "original": 31
+ },
+ "MA31MU.csv": {
+  "difference": 7,
+  "new": 9,
+  "original": 16
+ },
+ "MA31RE.csv": {
+  "difference": 6,
+  "new": 11,
+  "original": 17
+ },
+ "MA31SI.csv": {
+  "difference": 7,
+  "new": 10,
+  "original": 17
+ },
+ "MA31SN.csv": {
+  "difference": 13,
+  "new": 12,
+  "original": 25
+ },
+ "MA31TH.csv": {
+  "difference": 7,
+  "new": 10,
+  "original": 17
+ },
+ "MA31WA.csv": {
+  "difference": 7,
+  "new": 13,
+  "original": 20
+ },
+ "MA32EI.csv": {
+  "difference": 8,
+  "new": 9,
+  "original": 17
+ },
+ "MA32FI.csv": {
+  "difference": 9,
+  "new": 24,
+  "original": 33
+ },
+ "MA32MU.csv": {
+  "difference": 8,
+  "new": 10,
+  "original": 18
+ },
+ "MA32RE.csv": {
+  "difference": 6,
+  "new": 13,
+  "original": 19
+ },
+ "MA32SI.csv": {
+  "difference": 5,
+  "new": 14,
+  "original": 19
+ },
+ "MA32SN.csv": {
+  "difference": 14,
+  "new": 13,
+  "original": 27
+ },
+ "MA32TH.csv": {
+  "difference": 8,
+  "new": 11,
+  "original": 19
+ },
+ "MA32WA.csv": {
+  "difference": 8,
+  "new": 14,
+  "original": 22
+ },
+ "MA33EI.csv": {
+  "difference": 4,
+  "new": 6,
+  "original": 10
+ },
+ "MA33FI.csv": {
+  "difference": 10,
+  "new": 16,
+  "original": 26
+ },
+ "MA33MU.csv": {
+  "difference": 4,
+  "new": 7,
+  "original": 11
+ },
+ "MA33RE.csv": {
+  "difference": 5,
+  "new": 7,
+  "original": 12
+ },
+ "MA33SI.csv": {
+  "difference": 4,
+  "new": 8,
+  "original": 12
+ },
+ "MA33SN.csv": {
+  "difference": 10,
+  "new": 10,
+  "original": 20
+ },
+ "MA33TH.csv": {
+  "difference": 4,
+  "new": 8,
+  "original": 12
+ },
+ "MA33WA.csv": {
+  "difference": 4,
+  "new": 11,
+  "original": 15
+ },
+ "MA35EI.csv": {
+  "difference": 20,
+  "new": 27,
+  "original": 47
+ },
+ "MA35FI.csv": {
+  "difference": 21,
+  "new": 42,
+  "original": 63
+ },
+ "MA35MU.csv": {
+  "difference": 22,
+  "new": 26,
+  "original": 48
+ },
+ "MA35RE.csv": {
+  "difference": 9,
+  "new": 40,
+  "original": 49
+ },
+ "MA35SI.csv": {
+  "difference": 14,
+  "new": 35,
+  "original": 49
+ },
+ "MA35SN.csv": {
+  "difference": 29,
+  "new": 28,
+  "original": 57
+ },
+ "MA35TH.csv": {
+  "difference": 23,
+  "new": 26,
+  "original": 49
+ },
+ "MA35WA.csv": {
+  "difference": 22,
+  "new": 30,
+  "original": 52
+ },
+ "MA36MU.csv": {
+  "difference": 11,
+  "new": 12,
+  "original": 23
+ },
+ "MA36RE.csv": {
+  "difference": 12,
+  "new": 12,
+  "original": 24
+ },
+ "MA36SI.csv": {
+  "difference": 11,
+  "new": 13,
+  "original": 24
+ },
+ "MA36TH.csv": {
+  "difference": 12,
+  "new": 12,
+  "original": 24
+ },
+ "MA36WA.csv": {
+  "difference": 12,
+  "new": 14,
+  "original": 26
+ },
+ "MC25EI.csv": {
+  "difference": 37,
+  "new": 118,
+  "original": 155
+ },
+ "MC25FI.csv": {
+  "difference": 56,
+  "new": 110,
+  "original": 166
+ },
+ "MC25MU.csv": {
+  "difference": 45,
+  "new": 111,
+  "original": 156
+ },
+ "MC25RE.csv": {
+  "difference": 32,
+  "new": 125,
+  "original": 157
+ },
+ "MC25SI.csv": {
+  "difference": 44,
+  "new": 113,
+  "original": 157
+ },
+ "MC25SN.csv": {
+  "difference": 57,
+  "new": 114,
+  "original": 171
+ },
+ "MC25TH.csv": {
+  "difference": 44,
+  "new": 113,
+  "original": 157
+ },
+ "MC25WA.csv": {
+  "difference": 45,
+  "new": 115,
+  "original": 160
+ },
+ "MC27EI.csv": {
+  "difference": 44,
+  "new": 126,
+  "original": 170
+ },
+ "MC27FI.csv": {
+  "difference": 74,
+  "new": 112,
+  "original": 186
+ },
+ "MC27MU.csv": {
+  "difference": 53,
+  "new": 118,
+  "original": 171
+ },
+ "MC27RE.csv": {
+  "difference": 43,
+  "new": 129,
+  "original": 172
+ },
+ "MC27SI.csv": {
+  "difference": 52,
+  "new": 120,
+  "original": 172
+ },
+ "MC27SN.csv": {
+  "difference": 71,
+  "new": 115,
+  "original": 186
+ },
+ "MC27TH.csv": {
+  "difference": 58,
+  "new": 114,
+  "original": 172
+ },
+ "MC27WA.csv": {
+  "difference": 54,
+  "new": 121,
+  "original": 175
+ },
+ "MC30EI.csv": {
+  "difference": 43,
+  "new": 121,
+  "original": 164
+ },
+ "MC30FI.csv": {
+  "difference": 75,
+  "new": 111,
+  "original": 186
+ },
+ "MC30MU.csv": {
+  "difference": 50,
+  "new": 115,
+  "original": 165
+ },
+ "MC30RE.csv": {
+  "difference": 40,
+  "new": 126,
+  "original": 166
+ },
+ "MC30SI.csv": {
+  "difference": 50,
+  "new": 116,
+  "original": 166
+ },
+ "MC30SN.csv": {
+  "difference": 63,
+  "new": 115,
+  "original": 178
+ },
+ "MC30TH.csv": {
+  "difference": 55,
+  "new": 111,
+  "original": 166
+ },
+ "MC30WA.csv": {
+  "difference": 52,
+  "new": 117,
+  "original": 169
+ },
+ "MC31EI.csv": {
+  "difference": 43,
+  "new": 121,
+  "original": 164
+ },
+ "MC31FI.csv": {
+  "difference": 71,
+  "new": 109,
+  "original": 180
+ },
+ "MC31MU.csv": {
+  "difference": 50,
+  "new": 115,
+  "original": 165
+ },
+ "MC31RE.csv": {
+  "difference": 40,
+  "new": 126,
+  "original": 166
+ },
+ "MC31SI.csv": {
+  "difference": 50,
+  "new": 116,
+  "original": 166
+ },
+ "MC31SN.csv": {
+  "difference": 65,
+  "new": 115,
+  "original": 180
+ },
+ "MC31TH.csv": {
+  "difference": 55,
+  "new": 111,
+  "original": 166
+ },
+ "MC31WA.csv": {
+  "difference": 52,
+  "new": 117,
+  "original": 169
+ },
+ "MC32EI.csv": {
+  "difference": 43,
+  "new": 121,
+  "original": 164
+ },
+ "MC32FI.csv": {
+  "difference": 75,
+  "new": 111,
+  "original": 186
+ },
+ "MC32MU.csv": {
+  "difference": 50,
+  "new": 115,
+  "original": 165
+ },
+ "MC32RE.csv": {
+  "difference": 40,
+  "new": 126,
+  "original": 166
+ },
+ "MC32SI.csv": {
+  "difference": 50,
+  "new": 116,
+  "original": 166
+ },
+ "MC32SN.csv": {
+  "difference": 65,
+  "new": 115,
+  "original": 180
+ },
+ "MC32TH.csv": {
+  "difference": 55,
+  "new": 111,
+  "original": 166
+ },
+ "MC32WA.csv": {
+  "difference": 52,
+  "new": 117,
+  "original": 169
+ },
+ "MC33EI.csv": {
+  "difference": 43,
+  "new": 121,
+  "original": 164
+ },
+ "MC33FI.csv": {
+  "difference": 75,
+  "new": 111,
+  "original": 186
+ },
+ "MC33MU.csv": {
+  "difference": 50,
+  "new": 115,
+  "original": 165
+ },
+ "MC33RE.csv": {
+  "difference": 40,
+  "new": 126,
+  "original": 166
+ },
+ "MC33SI.csv": {
+  "difference": 52,
+  "new": 114,
+  "original": 166
+ },
+ "MC33SN.csv": {
+  "difference": 65,
+  "new": 115,
+  "original": 180
+ },
+ "MC33TH.csv": {
+  "difference": 55,
+  "new": 111,
+  "original": 166
+ },
+ "MC33WA.csv": {
+  "difference": 52,
+  "new": 117,
+  "original": 169
+ },
+ "MC34EI.csv": {
+  "difference": 43,
+  "new": 121,
+  "original": 164
+ },
+ "MC34FI.csv": {
+  "difference": 77,
+  "new": 109,
+  "original": 186
+ },
+ "MC34MU.csv": {
+  "difference": 50,
+  "new": 115,
+  "original": 165
+ },
+ "MC34RE.csv": {
+  "difference": 40,
+  "new": 126,
+  "original": 166
+ },
+ "MC34SI.csv": {
+  "difference": 52,
+  "new": 114,
+  "original": 166
+ },
+ "MC34SN.csv": {
+  "difference": 65,
+  "new": 115,
+  "original": 180
+ },
+ "MC34TH.csv": {
+  "difference": 55,
+  "new": 111,
+  "original": 166
+ },
+ "MC34WA.csv": {
+  "difference": 52,
+  "new": 117,
+  "original": 169
+ },
+ "MC35MU.csv": {
+  "difference": 47,
+  "new": 109,
+  "original": 156
+ },
+ "MC35RE.csv": {
+  "difference": 45,
+  "new": 118,
+  "original": 163
+ },
+ "MC35SI.csv": {
+  "difference": 42,
+  "new": 126,
+  "original": 168
+ },
+ "MC35TH.csv": {
+  "difference": 49,
+  "new": 108,
+  "original": 157
+ },
+ "MC35WA.csv": {
+  "difference": 48,
+  "new": 108,
+  "original": 156
+ },
+ "MC36MU.csv": {
+  "difference": 48,
+  "new": 100,
+  "original": 148
+ },
+ "MC36RE.csv": {
+  "difference": 47,
+  "new": 108,
+  "original": 155
+ },
+ "MC36SI.csv": {
+  "difference": 45,
+  "new": 112,
+  "original": 157
+ },
+ "MC36TH.csv": {
+  "difference": 53,
+  "new": 96,
+  "original": 149
+ },
+ "MC36WA.csv": {
+  "difference": 45,
+  "new": 115,
+  "original": 160
+ },
+ "MC37MU.csv": {
+  "difference": 42,
+  "new": 114,
+  "original": 156
+ },
+ "MC37RE.csv": {
+  "difference": 45,
+  "new": 118,
+  "original": 163
+ },
+ "MC37SI.csv": {
+  "difference": 45,
+  "new": 112,
+  "original": 157
+ },
+ "MC37TH.csv": {
+  "difference": 49,
+  "new": 108,
+  "original": 157
+ },
+ "MC37WA.csv": {
+  "difference": 45,
+  "new": 115,
+  "original": 160
+ },
+ "MU25EI.csv": {
+  "difference": 9,
+  "new": 16,
+  "original": 25
+ },
+ "MU25FI.csv": {
+  "difference": 17,
+  "new": 24,
+  "original": 41
+ },
+ "MU25MU.csv": {
+  "difference": 9,
+  "new": 17,
+  "original": 26
+ },
+ "MU25RE.csv": {
+  "difference": 8,
+  "new": 20,
+  "original": 28
+ },
+ "MU25SI.csv": {
+  "difference": 9,
+  "new": 18,
+  "original": 27
+ },
+ "MU25SN.csv": {
+  "difference": 16,
+  "new": 19,
+  "original": 35
+ },
+ "MU25TH.csv": {
+  "difference": 6,
+  "new": 21,
+  "original": 27
+ },
+ "MU25WA.csv": {
+  "difference": 9,
+  "new": 21,
+  "original": 30
+ },
+ "MU26EI.csv": {
+  "difference": 0,
+  "new": 5,
+  "original": 5
+ },
+ "MU26FI.csv": {
+  "difference": 4,
+  "new": 17,
+  "original": 21
+ },
+ "MU26MU.csv": {
+  "difference": 0,
+  "new": 6,
+  "original": 6
+ },
+ "MU26RE.csv": {
+  "difference": 1,
+  "new": 7,
+  "original": 8
+ },
+ "MU26SI.csv": {
+  "difference": 0,
+  "new": 7,
+  "original": 7
+ },
+ "MU26SN.csv": {
+  "difference": 7,
+  "new": 12,
+  "original": 19
+ },
+ "MU26TH.csv": {
+  "difference": 0,
+  "new": 7,
+  "original": 7
+ },
+ "MU26WA.csv": {
+  "difference": 0,
+  "new": 10,
+  "original": 10
+ },
+ "MU27EI.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "MU27FI.csv": {
+  "difference": 4,
+  "new": 14,
+  "original": 18
+ },
+ "MU27MU.csv": {
+  "difference": 0,
+  "new": 3,
+  "original": 3
+ },
+ "MU27RE.csv": {
+  "difference": 1,
+  "new": 4,
+  "original": 5
+ },
+ "MU27SI.csv": {
+  "difference": 0,
+  "new": 4,
+  "original": 4
+ },
+ "MU27SN.csv": {
+  "difference": 6,
+  "new": 6,
+  "original": 12
+ },
+ "MU27TH.csv": {
+  "difference": 0,
+  "new": 4,
+  "original": 4
+ },
+ "MU27WA.csv": {
+  "difference": 0,
+  "new": 7,
+  "original": 7
+ },
+ "NA25EI.csv": {
+  "difference": 41,
+  "new": 58,
+  "original": 99
+ },
+ "NA25FI.csv": {
+  "difference": 57,
+  "new": 55,
+  "original": 112
+ },
+ "NA25MU.csv": {
+  "difference": 47,
+  "new": 53,
+  "original": 100
+ },
+ "NA25RE.csv": {
+  "difference": 45,
+  "new": 56,
+  "original": 101
+ },
+ "NA25SI.csv": {
+  "difference": 46,
+  "new": 55,
+  "original": 101
+ },
+ "NA25SN.csv": {
+  "difference": 58,
+  "new": 57,
+  "original": 115
+ },
+ "NA25TH.csv": {
+  "difference": 46,
+  "new": 55,
+  "original": 101
+ },
+ "NA25WA.csv": {
+  "difference": 50,
+  "new": 56,
+  "original": 106
+ },
+ "PB25EI.csv": {
+  "difference": 25,
+  "new": 10,
+  "original": 35
+ },
+ "PB25FI.csv": {
+  "difference": 33,
+  "new": 18,
+  "original": 51
+ },
+ "PB25MU.csv": {
+  "difference": 27,
+  "new": 9,
+  "original": 36
+ },
+ "PB25RE.csv": {
+  "difference": 30,
+  "new": 15,
+  "original": 45
+ },
+ "PB25SI.csv": {
+  "difference": 26,
+  "new": 11,
+  "original": 37
+ },
+ "PB25SN.csv": {
+  "difference": 33,
+  "new": 12,
+  "original": 45
+ },
+ "PB25TH.csv": {
+  "difference": 27,
+  "new": 10,
+  "original": 37
+ },
+ "PB25WA.csv": {
+  "difference": 27,
+  "new": 13,
+  "original": 40
+ },
+ "PB26EI.csv": {
+  "difference": 17,
+  "new": 14,
+  "original": 31
+ },
+ "PB26FI.csv": {
+  "difference": 26,
+  "new": 21,
+  "original": 47
+ },
+ "PB26MU.csv": {
+  "difference": 18,
+  "new": 14,
+  "original": 32
+ },
+ "PB26RE.csv": {
+  "difference": 19,
+  "new": 13,
+  "original": 32
+ },
+ "PB26SI.csv": {
+  "difference": 19,
+  "new": 14,
+  "original": 33
+ },
+ "PB26SN.csv": {
+  "difference": 24,
+  "new": 17,
+  "original": 41
+ },
+ "PB26TH.csv": {
+  "difference": 18,
+  "new": 15,
+  "original": 33
+ },
+ "PB26WA.csv": {
+  "difference": 19,
+  "new": 17,
+  "original": 36
+ },
+ "PB27EI.csv": {
+  "difference": 21,
+  "new": 16,
+  "original": 37
+ },
+ "PB27FI.csv": {
+  "difference": 30,
+  "new": 23,
+  "original": 53
+ },
+ "PB27MU.csv": {
+  "difference": 23,
+  "new": 15,
+  "original": 38
+ },
+ "PB27RE.csv": {
+  "difference": 23,
+  "new": 16,
+  "original": 39
+ },
+ "PB27SI.csv": {
+  "difference": 23,
+  "new": 16,
+  "original": 39
+ },
+ "PB27SN.csv": {
+  "difference": 28,
+  "new": 19,
+  "original": 47
+ },
+ "PB27TH.csv": {
+  "difference": 23,
+  "new": 16,
+  "original": 39
+ },
+ "PB27WA.csv": {
+  "difference": 24,
+  "new": 18,
+  "original": 42
+ },
+ "PB28EI.csv": {
+  "difference": 25,
+  "new": 10,
+  "original": 35
+ },
+ "PB28FI.csv": {
+  "difference": 33,
+  "new": 18,
+  "original": 51
+ },
+ "PB28MU.csv": {
+  "difference": 27,
+  "new": 9,
+  "original": 36
+ },
+ "PB28RE.csv": {
+  "difference": 30,
+  "new": 15,
+  "original": 45
+ },
+ "PB28SI.csv": {
+  "difference": 26,
+  "new": 11,
+  "original": 37
+ },
+ "PB28SN.csv": {
+  "difference": 33,
+  "new": 12,
+  "original": 45
+ },
+ "PB28TH.csv": {
+  "difference": 27,
+  "new": 10,
+  "original": 37
+ },
+ "PB28WA.csv": {
+  "difference": 27,
+  "new": 13,
+  "original": 40
+ },
+ "PB29EI.csv": {
+  "difference": 13,
+  "new": 7,
+  "original": 20
+ },
+ "PB29FI.csv": {
+  "difference": 20,
+  "new": 16,
+  "original": 36
+ },
+ "PB29MU.csv": {
+  "difference": 13,
+  "new": 8,
+  "original": 21
+ },
+ "PB29RE.csv": {
+  "difference": 17,
+  "new": 15,
+  "original": 32
+ },
+ "PB29SI.csv": {
+  "difference": 13,
+  "new": 9,
+  "original": 22
+ },
+ "PB29SN.csv": {
+  "difference": 19,
+  "new": 11,
+  "original": 30
+ },
+ "PB29TH.csv": {
+  "difference": 13,
+  "new": 9,
+  "original": 22
+ },
+ "PB29WA.csv": {
+  "difference": 13,
+  "new": 12,
+  "original": 25
+ },
+ "PB30EI.csv": {
+  "difference": 25,
+  "new": 10,
+  "original": 35
+ },
+ "PB30FI.csv": {
+  "difference": 33,
+  "new": 18,
+  "original": 51
+ },
+ "PB30MU.csv": {
+  "difference": 27,
+  "new": 9,
+  "original": 36
+ },
+ "PB30RE.csv": {
+  "difference": 30,
+  "new": 15,
+  "original": 45
+ },
+ "PB30SI.csv": {
+  "difference": 26,
+  "new": 11,
+  "original": 37
+ },
+ "PB30SN.csv": {
+  "difference": 33,
+  "new": 12,
+  "original": 45
+ },
+ "PB30TH.csv": {
+  "difference": 27,
+  "new": 10,
+  "original": 37
+ },
+ "PB30WA.csv": {
+  "difference": 27,
+  "new": 13,
+  "original": 40
+ },
+ "PB31EI.csv": {
+  "difference": 13,
+  "new": 11,
+  "original": 24
+ },
+ "PB31FI.csv": {
+  "difference": 21,
+  "new": 19,
+  "original": 40
+ },
+ "PB31MU.csv": {
+  "difference": 14,
+  "new": 11,
+  "original": 25
+ },
+ "PB31RE.csv": {
+  "difference": 28,
+  "new": 22,
+  "original": 50
+ },
+ "PB31SI.csv": {
+  "difference": 14,
+  "new": 12,
+  "original": 26
+ },
+ "PB31SN.csv": {
+  "difference": 21,
+  "new": 13,
+  "original": 34
+ },
+ "PB31TH.csv": {
+  "difference": 14,
+  "new": 12,
+  "original": 26
+ },
+ "PB31WA.csv": {
+  "difference": 15,
+  "new": 14,
+  "original": 29
+ },
+ "PC25EI.csv": {
+  "difference": 0,
+  "new": 1,
+  "original": 1
+ },
+ "PC25FI.csv": {
+  "difference": 6,
+  "new": 11,
+  "original": 17
+ },
+ "PC25MU.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "PC25RE.csv": {
+  "difference": 2,
+  "new": 4,
+  "original": 6
+ },
+ "PC25SI.csv": {
+  "difference": 0,
+  "new": 3,
+  "original": 3
+ },
+ "PC25SN.csv": {
+  "difference": 6,
+  "new": 5,
+  "original": 11
+ },
+ "PC25TH.csv": {
+  "difference": 0,
+  "new": 3,
+  "original": 3
+ },
+ "PC25WA.csv": {
+  "difference": 0,
+  "new": 6,
+  "original": 6
+ },
+ "PC26EI.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "PC26FI.csv": {
+  "difference": 6,
+  "new": 12,
+  "original": 18
+ },
+ "PC26MU.csv": {
+  "difference": 0,
+  "new": 3,
+  "original": 3
+ },
+ "PC26RE.csv": {
+  "difference": 1,
+  "new": 4,
+  "original": 5
+ },
+ "PC26SI.csv": {
+  "difference": 0,
+  "new": 4,
+  "original": 4
+ },
+ "PC26SN.csv": {
+  "difference": 6,
+  "new": 6,
+  "original": 12
+ },
+ "PC26TH.csv": {
+  "difference": 0,
+  "new": 4,
+  "original": 4
+ },
+ "PC26WA.csv": {
+  "difference": 0,
+  "new": 7,
+  "original": 7
+ },
+ "PC28EI.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "PC28FI.csv": {
+  "difference": 6,
+  "new": 12,
+  "original": 18
+ },
+ "PC28MU.csv": {
+  "difference": 0,
+  "new": 3,
+  "original": 3
+ },
+ "PC28RE.csv": {
+  "difference": 0,
+  "new": 5,
+  "original": 5
+ },
+ "PC28SI.csv": {
+  "difference": 0,
+  "new": 4,
+  "original": 4
+ },
+ "PC28SN.csv": {
+  "difference": 6,
+  "new": 6,
+  "original": 12
+ },
+ "PC28TH.csv": {
+  "difference": 0,
+  "new": 4,
+  "original": 4
+ },
+ "PC28WA.csv": {
+  "difference": 0,
+  "new": 7,
+  "original": 7
+ },
+ "PC29EI.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "PC29FI.csv": {
+  "difference": 6,
+  "new": 12,
+  "original": 18
+ },
+ "PC29MU.csv": {
+  "difference": 0,
+  "new": 3,
+  "original": 3
+ },
+ "PC29RE.csv": {
+  "difference": 1,
+  "new": 4,
+  "original": 5
+ },
+ "PC29SI.csv": {
+  "difference": 0,
+  "new": 4,
+  "original": 4
+ },
+ "PC29SN.csv": {
+  "difference": 6,
+  "new": 6,
+  "original": 12
+ },
+ "PC29TH.csv": {
+  "difference": 0,
+  "new": 4,
+  "original": 4
+ },
+ "PC29WA.csv": {
+  "difference": 0,
+  "new": 7,
+  "original": 7
+ },
+ "PC30EI.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "PC30FI.csv": {
+  "difference": 6,
+  "new": 12,
+  "original": 18
+ },
+ "PC30MU.csv": {
+  "difference": 0,
+  "new": 3,
+  "original": 3
+ },
+ "PC30RE.csv": {
+  "difference": 1,
+  "new": 4,
+  "original": 5
+ },
+ "PC30SI.csv": {
+  "difference": 0,
+  "new": 4,
+  "original": 4
+ },
+ "PC30SN.csv": {
+  "difference": 6,
+  "new": 6,
+  "original": 12
+ },
+ "PC30TH.csv": {
+  "difference": 0,
+  "new": 4,
+  "original": 4
+ },
+ "PC30WA.csv": {
+  "difference": 0,
+  "new": 7,
+  "original": 7
+ },
+ "PC31EI.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "PC31FI.csv": {
+  "difference": 6,
+  "new": 12,
+  "original": 18
+ },
+ "PC31MU.csv": {
+  "difference": 0,
+  "new": 3,
+  "original": 3
+ },
+ "PC31RE.csv": {
+  "difference": 1,
+  "new": 4,
+  "original": 5
+ },
+ "PC31SI.csv": {
+  "difference": 0,
+  "new": 4,
+  "original": 4
+ },
+ "PC31SN.csv": {
+  "difference": 6,
+  "new": 6,
+  "original": 12
+ },
+ "PC31TH.csv": {
+  "difference": 0,
+  "new": 4,
+  "original": 4
+ },
+ "PC31WA.csv": {
+  "difference": 0,
+  "new": 7,
+  "original": 7
+ },
+ "PC32EI.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "PC32FI.csv": {
+  "difference": 6,
+  "new": 12,
+  "original": 18
+ },
+ "PC32MU.csv": {
+  "difference": 0,
+  "new": 3,
+  "original": 3
+ },
+ "PC32RE.csv": {
+  "difference": 1,
+  "new": 4,
+  "original": 5
+ },
+ "PC32SI.csv": {
+  "difference": 0,
+  "new": 4,
+  "original": 4
+ },
+ "PC32SN.csv": {
+  "difference": 6,
+  "new": 6,
+  "original": 12
+ },
+ "PC32TH.csv": {
+  "difference": 0,
+  "new": 4,
+  "original": 4
+ },
+ "PC32WA.csv": {
+  "difference": 0,
+  "new": 7,
+  "original": 7
+ },
+ "PC33EI.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "PC33FI.csv": {
+  "difference": 6,
+  "new": 12,
+  "original": 18
+ },
+ "PC33MU.csv": {
+  "difference": 0,
+  "new": 3,
+  "original": 3
+ },
+ "PC33RE.csv": {
+  "difference": 1,
+  "new": 4,
+  "original": 5
+ },
+ "PC33SI.csv": {
+  "difference": 0,
+  "new": 4,
+  "original": 4
+ },
+ "PC33SN.csv": {
+  "difference": 6,
+  "new": 6,
+  "original": 12
+ },
+ "PC33TH.csv": {
+  "difference": 0,
+  "new": 4,
+  "original": 4
+ },
+ "PC33WA.csv": {
+  "difference": 0,
+  "new": 7,
+  "original": 7
+ },
+ "PC34EI.csv": {
+  "difference": 5,
+  "new": 4,
+  "original": 9
+ },
+ "PC34FI.csv": {
+  "difference": 11,
+  "new": 14,
+  "original": 25
+ },
+ "PC34MU.csv": {
+  "difference": 5,
+  "new": 5,
+  "original": 10
+ },
+ "PC34RE.csv": {
+  "difference": 6,
+  "new": 5,
+  "original": 11
+ },
+ "PC34SI.csv": {
+  "difference": 5,
+  "new": 6,
+  "original": 11
+ },
+ "PC34SN.csv": {
+  "difference": 11,
+  "new": 8,
+  "original": 19
+ },
+ "PC34TH.csv": {
+  "difference": 5,
+  "new": 6,
+  "original": 11
+ },
+ "PC34WA.csv": {
+  "difference": 5,
+  "new": 9,
+  "original": 14
+ },
+ "PC35EI.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "PC35FI.csv": {
+  "difference": 6,
+  "new": 12,
+  "original": 18
+ },
+ "PC35MU.csv": {
+  "difference": 0,
+  "new": 3,
+  "original": 3
+ },
+ "PC35RE.csv": {
+  "difference": 1,
+  "new": 4,
+  "original": 5
+ },
+ "PC35SI.csv": {
+  "difference": 0,
+  "new": 4,
+  "original": 4
+ },
+ "PC35SN.csv": {
+  "difference": 6,
+  "new": 6,
+  "original": 12
+ },
+ "PC35TH.csv": {
+  "difference": 0,
+  "new": 4,
+  "original": 4
+ },
+ "PC35WA.csv": {
+  "difference": 0,
+  "new": 7,
+  "original": 7
+ },
+ "PL25EI.csv": {
+  "difference": 0,
+  "new": 3,
+  "original": 3
+ },
+ "PL25FI.csv": {
+  "difference": 6,
+  "new": 13,
+  "original": 19
+ },
+ "PL25MU.csv": {
+  "difference": 0,
+  "new": 4,
+  "original": 4
+ },
+ "PL25RE.csv": {
+  "difference": 1,
+  "new": 5,
+  "original": 6
+ },
+ "PL25SI.csv": {
+  "difference": 0,
+  "new": 5,
+  "original": 5
+ },
+ "PL25SN.csv": {
+  "difference": 6,
+  "new": 7,
+  "original": 13
+ },
+ "PL25TH.csv": {
+  "difference": 0,
+  "new": 5,
+  "original": 5
+ },
+ "PL25WA.csv": {
+  "difference": 0,
+  "new": 8,
+  "original": 8
+ },
+ "PS25EI.csv": {
+  "difference": 0,
+  "new": 0,
+  "original": 0
+ },
+ "PS25FI.csv": {
+  "difference": 6,
+  "new": 10,
+  "original": 16
+ },
+ "PS25MU.csv": {
+  "difference": 0,
+  "new": 1,
+  "original": 1
+ },
+ "PS25RE.csv": {
+  "difference": 1,
+  "new": 2,
+  "original": 3
+ },
+ "PS25SI.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "PS25SN.csv": {
+  "difference": 6,
+  "new": 4,
+  "original": 10
+ },
+ "PS25TH.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "PS25WA.csv": {
+  "difference": 0,
+  "new": 5,
+  "original": 5
+ },
+ "PS26EI.csv": {
+  "difference": 0,
+  "new": 0,
+  "original": 0
+ },
+ "PS26FI.csv": {
+  "difference": 2,
+  "new": 7,
+  "original": 9
+ },
+ "PS26MU.csv": {
+  "difference": 0,
+  "new": 1,
+  "original": 1
+ },
+ "PS26RE.csv": {
+  "difference": 1,
+  "new": 2,
+  "original": 3
+ },
+ "PS26SI.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "PS26SN.csv": {
+  "difference": 6,
+  "new": 4,
+  "original": 10
+ },
+ "PS26TH.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "PS26WA.csv": {
+  "difference": 0,
+  "new": 5,
+  "original": 5
+ },
+ "PS27EI.csv": {
+  "difference": 0,
+  "new": 0,
+  "original": 0
+ },
+ "PS27MU.csv": {
+  "difference": 0,
+  "new": 1,
+  "original": 1
+ },
+ "PS27RE.csv": {
+  "difference": 1,
+  "new": 2,
+  "original": 3
+ },
+ "PS27SI.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "PS27SN.csv": {
+  "difference": 6,
+  "new": 4,
+  "original": 10
+ },
+ "PS27TH.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "PS27WA.csv": {
+  "difference": 0,
+  "new": 5,
+  "original": 5
+ },
+ "PS28EI.csv": {
+  "difference": 0,
+  "new": 0,
+  "original": 0
+ },
+ "PS28FI.csv": {
+  "difference": 6,
+  "new": 10,
+  "original": 16
+ },
+ "PS28MU.csv": {
+  "difference": 0,
+  "new": 1,
+  "original": 1
+ },
+ "PS28RE.csv": {
+  "difference": 1,
+  "new": 2,
+  "original": 3
+ },
+ "PS28SI.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "PS28SN.csv": {
+  "difference": 6,
+  "new": 4,
+  "original": 10
+ },
+ "PS28TH.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "PS28WA.csv": {
+  "difference": 0,
+  "new": 5,
+  "original": 5
+ },
+ "PS29EI.csv": {
+  "difference": 0,
+  "new": 0,
+  "original": 0
+ },
+ "PS29FI.csv": {
+  "difference": 6,
+  "new": 10,
+  "original": 16
+ },
+ "PS29MU.csv": {
+  "difference": 0,
+  "new": 1,
+  "original": 1
+ },
+ "PS29RE.csv": {
+  "difference": 1,
+  "new": 2,
+  "original": 3
+ },
+ "PS29SI.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "PS29SN.csv": {
+  "difference": 6,
+  "new": 4,
+  "original": 10
+ },
+ "PS29TH.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "PS29WA.csv": {
+  "difference": 0,
+  "new": 5,
+  "original": 5
+ },
+ "PS30EI.csv": {
+  "difference": 0,
+  "new": 0,
+  "original": 0
+ },
+ "PS30FI.csv": {
+  "difference": 6,
+  "new": 10,
+  "original": 16
+ },
+ "PS30MU.csv": {
+  "difference": 0,
+  "new": 1,
+  "original": 1
+ },
+ "PS30RE.csv": {
+  "difference": 1,
+  "new": 2,
+  "original": 3
+ },
+ "PS30SI.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "PS30SN.csv": {
+  "difference": 6,
+  "new": 4,
+  "original": 10
+ },
+ "PS30TH.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "PS30WA.csv": {
+  "difference": 0,
+  "new": 5,
+  "original": 5
+ },
+ "PS31EI.csv": {
+  "difference": 0,
+  "new": 0,
+  "original": 0
+ },
+ "PS31FI.csv": {
+  "difference": 6,
+  "new": 10,
+  "original": 16
+ },
+ "PS31MU.csv": {
+  "difference": 0,
+  "new": 1,
+  "original": 1
+ },
+ "PS31RE.csv": {
+  "difference": 1,
+  "new": 2,
+  "original": 3
+ },
+ "PS31SI.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "PS31SN.csv": {
+  "difference": 6,
+  "new": 4,
+  "original": 10
+ },
+ "PS31TH.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "PS31WA.csv": {
+  "difference": 0,
+  "new": 5,
+  "original": 5
+ },
+ "PS32EI.csv": {
+  "difference": 0,
+  "new": 0,
+  "original": 0
+ },
+ "PS32FI.csv": {
+  "difference": 4,
+  "new": 12,
+  "original": 16
+ },
+ "PS32MU.csv": {
+  "difference": 0,
+  "new": 1,
+  "original": 1
+ },
+ "PS32RE.csv": {
+  "difference": 1,
+  "new": 2,
+  "original": 3
+ },
+ "PS32SI.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "PS32SN.csv": {
+  "difference": 6,
+  "new": 4,
+  "original": 10
+ },
+ "PS32TH.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "PS32WA.csv": {
+  "difference": 0,
+  "new": 5,
+  "original": 5
+ },
+ "PS34EI.csv": {
+  "difference": 0,
+  "new": 0,
+  "original": 0
+ },
+ "PS34FI.csv": {
+  "difference": 6,
+  "new": 10,
+  "original": 16
+ },
+ "PS34MU.csv": {
+  "difference": 0,
+  "new": 1,
+  "original": 1
+ },
+ "PS34RE.csv": {
+  "difference": 1,
+  "new": 2,
+  "original": 3
+ },
+ "PS34SI.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "PS34SN.csv": {
+  "difference": 6,
+  "new": 4,
+  "original": 10
+ },
+ "PS34TH.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "PS34WA.csv": {
+  "difference": 0,
+  "new": 5,
+  "original": 5
+ },
+ "PY26EI.csv": {
+  "difference": 51,
+  "new": 244,
+  "original": 295
+ },
+ "PY26FI.csv": {
+  "difference": 73,
+  "new": 233,
+  "original": 306
+ },
+ "PY26MU.csv": {
+  "difference": 51,
+  "new": 245,
+  "original": 296
+ },
+ "PY26RE.csv": {
+  "difference": 44,
+  "new": 253,
+  "original": 297
+ },
+ "PY26SI.csv": {
+  "difference": 49,
+  "new": 248,
+  "original": 297
+ },
+ "PY26SN.csv": {
+  "difference": 79,
+  "new": 226,
+  "original": 305
+ },
+ "PY26TH.csv": {
+  "difference": 47,
+  "new": 250,
+  "original": 297
+ },
+ "PY26WA.csv": {
+  "difference": 50,
+  "new": 250,
+  "original": 300
+ },
+ "PY28EI.csv": {
+  "difference": 23,
+  "new": 272,
+  "original": 295
+ },
+ "PY28FI.csv": {
+  "difference": 71,
+  "new": 240,
+  "original": 311
+ },
+ "PY28MU.csv": {
+  "difference": 45,
+  "new": 251,
+  "original": 296
+ },
+ "PY28RE.csv": {
+  "difference": 42,
+  "new": 255,
+  "original": 297
+ },
+ "PY28SI.csv": {
+  "difference": 36,
+  "new": 261,
+  "original": 297
+ },
+ "PY28SN.csv": {
+  "difference": 83,
+  "new": 222,
+  "original": 305
+ },
+ "PY28TH.csv": {
+  "difference": 43,
+  "new": 254,
+  "original": 297
+ },
+ "PY28WA.csv": {
+  "difference": 47,
+  "new": 253,
+  "original": 300
+ },
+ "PY29EI.csv": {
+  "difference": 31,
+  "new": 264,
+  "original": 295
+ },
+ "PY29FI.csv": {
+  "difference": 65,
+  "new": 246,
+  "original": 311
+ },
+ "PY29MU.csv": {
+  "difference": 51,
+  "new": 245,
+  "original": 296
+ },
+ "PY29RE.csv": {
+  "difference": 52,
+  "new": 245,
+  "original": 297
+ },
+ "PY29SI.csv": {
+  "difference": 47,
+  "new": 250,
+  "original": 297
+ },
+ "PY29SN.csv": {
+  "difference": 77,
+  "new": 228,
+  "original": 305
+ },
+ "PY29TH.csv": {
+  "difference": 47,
+  "new": 250,
+  "original": 297
+ },
+ "PY29WA.csv": {
+  "difference": 51,
+  "new": 249,
+  "original": 300
+ },
+ "PY30EI.csv": {
+  "difference": 15,
+  "new": 230,
+  "original": 245
+ },
+ "PY30FI.csv": {
+  "difference": 54,
+  "new": 207,
+  "original": 261
+ },
+ "PY30MU.csv": {
+  "difference": 39,
+  "new": 207,
+  "original": 246
+ },
+ "PY30RE.csv": {
+  "difference": 38,
+  "new": 209,
+  "original": 247
+ },
+ "PY30SI.csv": {
+  "difference": 38,
+  "new": 209,
+  "original": 247
+ },
+ "PY30SN.csv": {
+  "difference": 55,
+  "new": 200,
+  "original": 255
+ },
+ "PY30TH.csv": {
+  "difference": 39,
+  "new": 208,
+  "original": 247
+ },
+ "PY30WA.csv": {
+  "difference": 25,
+  "new": 225,
+  "original": 250
+ },
+ "PY31EI.csv": {
+  "difference": 38,
+  "new": 209,
+  "original": 247
+ },
+ "PY31FI.csv": {
+  "difference": 61,
+  "new": 202,
+  "original": 263
+ },
+ "PY31MU.csv": {
+  "difference": 46,
+  "new": 202,
+  "original": 248
+ },
+ "PY31RE.csv": {
+  "difference": 49,
+  "new": 200,
+  "original": 249
+ },
+ "PY31SI.csv": {
+  "difference": 46,
+  "new": 203,
+  "original": 249
+ },
+ "PY31SN.csv": {
+  "difference": 64,
+  "new": 193,
+  "original": 257
+ },
+ "PY31TH.csv": {
+  "difference": 39,
+  "new": 210,
+  "original": 249
+ },
+ "PY31WA.csv": {
+  "difference": 46,
+  "new": 206,
+  "original": 252
+ },
+ "PY32EI.csv": {
+  "difference": 31,
+  "new": 264,
+  "original": 295
+ },
+ "PY32FI.csv": {
+  "difference": 72,
+  "new": 234,
+  "original": 306
+ },
+ "PY32MU.csv": {
+  "difference": 51,
+  "new": 247,
+  "original": 298
+ },
+ "PY32RE.csv": {
+  "difference": 48,
+  "new": 249,
+  "original": 297
+ },
+ "PY32SI.csv": {
+  "difference": 33,
+  "new": 264,
+  "original": 297
+ },
+ "PY32SN.csv": {
+  "difference": 73,
+  "new": 232,
+  "original": 305
+ },
+ "PY32TH.csv": {
+  "difference": 47,
+  "new": 250,
+  "original": 297
+ },
+ "PY32WA.csv": {
+  "difference": 51,
+  "new": 249,
+  "original": 300
+ },
+ "PY33EI.csv": {
+  "difference": 35,
+  "new": 260,
+  "original": 295
+ },
+ "PY33FI.csv": {
+  "difference": 64,
+  "new": 247,
+  "original": 311
+ },
+ "PY33MU.csv": {
+  "difference": 49,
+  "new": 247,
+  "original": 296
+ },
+ "PY33RE.csv": {
+  "difference": 52,
+  "new": 245,
+  "original": 297
+ },
+ "PY33SI.csv": {
+  "difference": 35,
+  "new": 262,
+  "original": 297
+ },
+ "PY33SN.csv": {
+  "difference": 79,
+  "new": 226,
+  "original": 305
+ },
+ "PY33TH.csv": {
+  "difference": 44,
+  "new": 253,
+  "original": 297
+ },
+ "PY33WA.csv": {
+  "difference": 51,
+  "new": 249,
+  "original": 300
+ },
+ "PY34EI.csv": {
+  "difference": 35,
+  "new": 260,
+  "original": 295
+ },
+ "PY34FI.csv": {
+  "difference": 69,
+  "new": 242,
+  "original": 311
+ },
+ "PY34MU.csv": {
+  "difference": 48,
+  "new": 248,
+  "original": 296
+ },
+ "PY34RE.csv": {
+  "difference": 46,
+  "new": 251,
+  "original": 297
+ },
+ "PY34SI.csv": {
+  "difference": 32,
+  "new": 265,
+  "original": 297
+ },
+ "PY34SN.csv": {
+  "difference": 77,
+  "new": 228,
+  "original": 305
+ },
+ "PY34TH.csv": {
+  "difference": 47,
+  "new": 250,
+  "original": 297
+ },
+ "PY34WA.csv": {
+  "difference": 51,
+  "new": 249,
+  "original": 300
+ },
+ "RE26EI.csv": {
+  "difference": 0,
+  "new": 3,
+  "original": 3
+ },
+ "RE26FI.csv": {
+  "difference": 6,
+  "new": 13,
+  "original": 19
+ },
+ "RE26MU.csv": {
+  "difference": 2,
+  "new": 2,
+  "original": 4
+ },
+ "RE26RE.csv": {
+  "difference": 3,
+  "new": 3,
+  "original": 6
+ },
+ "RE26SI.csv": {
+  "difference": 2,
+  "new": 3,
+  "original": 5
+ },
+ "RE26SN.csv": {
+  "difference": 8,
+  "new": 5,
+  "original": 13
+ },
+ "RE26TH.csv": {
+  "difference": 2,
+  "new": 3,
+  "original": 5
+ },
+ "RE26WA.csv": {
+  "difference": 2,
+  "new": 6,
+  "original": 8
+ },
+ "RU26EI.csv": {
+  "difference": 0,
+  "new": 9,
+  "original": 9
+ },
+ "RU26FI.csv": {
+  "difference": 7,
+  "new": 18,
+  "original": 25
+ },
+ "RU26MU.csv": {
+  "difference": 0,
+  "new": 10,
+  "original": 10
+ },
+ "RU26RE.csv": {
+  "difference": 1,
+  "new": 11,
+  "original": 12
+ },
+ "RU26SI.csv": {
+  "difference": 2,
+  "new": 9,
+  "original": 11
+ },
+ "RU26SN.csv": {
+  "difference": 8,
+  "new": 11,
+  "original": 19
+ },
+ "RU26TH.csv": {
+  "difference": 2,
+  "new": 9,
+  "original": 11
+ },
+ "RU26WA.csv": {
+  "difference": 2,
+  "new": 12,
+  "original": 14
+ },
+ "SE27EI.csv": {
+  "difference": 27,
+  "new": 63,
+  "original": 90
+ },
+ "SE27FI.csv": {
+  "difference": 32,
+  "new": 74,
+  "original": 106
+ },
+ "SE27MU.csv": {
+  "difference": 29,
+  "new": 62,
+  "original": 91
+ },
+ "SE27RE.csv": {
+  "difference": 24,
+  "new": 68,
+  "original": 92
+ },
+ "SE27SI.csv": {
+  "difference": 29,
+  "new": 63,
+  "original": 92
+ },
+ "SE27SN.csv": {
+  "difference": 35,
+  "new": 65,
+  "original": 100
+ },
+ "SE27TH.csv": {
+  "difference": 29,
+  "new": 63,
+  "original": 92
+ },
+ "SE27WA.csv": {
+  "difference": 29,
+  "new": 66,
+  "original": 95
+ },
+ "SI29EI.csv": {
+  "difference": 34,
+  "new": 41,
+  "original": 75
+ },
+ "SI29FI.csv": {
+  "difference": 47,
+  "new": 44,
+  "original": 91
+ },
+ "SI29MU.csv": {
+  "difference": 40,
+  "new": 36,
+  "original": 76
+ },
+ "SI29RE.csv": {
+  "difference": 40,
+  "new": 37,
+  "original": 77
+ },
+ "SI29SI.csv": {
+  "difference": 40,
+  "new": 37,
+  "original": 77
+ },
+ "SI29SN.csv": {
+  "difference": 47,
+  "new": 38,
+  "original": 85
+ },
+ "SI29TH.csv": {
+  "difference": 40,
+  "new": 37,
+  "original": 77
+ },
+ "SI29WA.csv": {
+  "difference": 40,
+  "new": 40,
+  "original": 80
+ },
+ "SI30EI.csv": {
+  "difference": 9,
+  "new": 28,
+  "original": 37
+ },
+ "SI30FI.csv": {
+  "difference": 15,
+  "new": 38,
+  "original": 53
+ },
+ "SI30MU.csv": {
+  "difference": 10,
+  "new": 28,
+  "original": 38
+ },
+ "SI30RE.csv": {
+  "difference": 11,
+  "new": 28,
+  "original": 39
+ },
+ "SI30SI.csv": {
+  "difference": 8,
+  "new": 31,
+  "original": 39
+ },
+ "SI30SN.csv": {
+  "difference": 14,
+  "new": 33,
+  "original": 47
+ },
+ "SI30TH.csv": {
+  "difference": 10,
+  "new": 29,
+  "original": 39
+ },
+ "SI30WA.csv": {
+  "difference": 8,
+  "new": 34,
+  "original": 42
+ },
+ "SI31EI.csv": {
+  "difference": 25,
+  "new": 35,
+  "original": 60
+ },
+ "SI31FI.csv": {
+  "difference": 37,
+  "new": 39,
+  "original": 76
+ },
+ "SI31MU.csv": {
+  "difference": 28,
+  "new": 33,
+  "original": 61
+ },
+ "SI31RE.csv": {
+  "difference": 30,
+  "new": 32,
+  "original": 62
+ },
+ "SI31SI.csv": {
+  "difference": 28,
+  "new": 34,
+  "original": 62
+ },
+ "SI31SN.csv": {
+  "difference": 35,
+  "new": 35,
+  "original": 70
+ },
+ "SI31TH.csv": {
+  "difference": 31,
+  "new": 31,
+  "original": 62
+ },
+ "SI31WA.csv": {
+  "difference": 28,
+  "new": 37,
+  "original": 65
+ },
+ "SO25EI.csv": {
+  "difference": 0,
+  "new": 0,
+  "original": 0
+ },
+ "SO25FI.csv": {
+  "difference": 6,
+  "new": 10,
+  "original": 16
+ },
+ "SO25MU.csv": {
+  "difference": 0,
+  "new": 1,
+  "original": 1
+ },
+ "SO25RE.csv": {
+  "difference": 1,
+  "new": 2,
+  "original": 3
+ },
+ "SO25SI.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "SO25SN.csv": {
+  "difference": 6,
+  "new": 4,
+  "original": 10
+ },
+ "SO25TH.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "SO25WA.csv": {
+  "difference": 0,
+  "new": 5,
+  "original": 5
+ },
+ "SO27EI.csv": {
+  "difference": 0,
+  "new": 0,
+  "original": 0
+ },
+ "SO27FI.csv": {
+  "difference": 6,
+  "new": 10,
+  "original": 16
+ },
+ "SO27MU.csv": {
+  "difference": 0,
+  "new": 1,
+  "original": 1
+ },
+ "SO27RE.csv": {
+  "difference": 1,
+  "new": 2,
+  "original": 3
+ },
+ "SO27SI.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "SO27SN.csv": {
+  "difference": 6,
+  "new": 4,
+  "original": 10
+ },
+ "SO27TH.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "SO27WA.csv": {
+  "difference": 0,
+  "new": 5,
+  "original": 5
+ },
+ "SO28EI.csv": {
+  "difference": 0,
+  "new": 0,
+  "original": 0
+ },
+ "SO28FI.csv": {
+  "difference": 6,
+  "new": 10,
+  "original": 16
+ },
+ "SO28MU.csv": {
+  "difference": 0,
+  "new": 1,
+  "original": 1
+ },
+ "SO28RE.csv": {
+  "difference": 1,
+  "new": 2,
+  "original": 3
+ },
+ "SO28SI.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "SO28SN.csv": {
+  "difference": 6,
+  "new": 4,
+  "original": 10
+ },
+ "SO28TH.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "SO28WA.csv": {
+  "difference": 0,
+  "new": 5,
+  "original": 5
+ },
+ "SO29EI.csv": {
+  "difference": 0,
+  "new": 0,
+  "original": 0
+ },
+ "SO29FI.csv": {
+  "difference": 6,
+  "new": 10,
+  "original": 16
+ },
+ "SO29MU.csv": {
+  "difference": 0,
+  "new": 1,
+  "original": 1
+ },
+ "SO29RE.csv": {
+  "difference": 1,
+  "new": 2,
+  "original": 3
+ },
+ "SO29SI.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "SO29SN.csv": {
+  "difference": 6,
+  "new": 4,
+  "original": 10
+ },
+ "SO29TH.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "SO29WA.csv": {
+  "difference": 0,
+  "new": 5,
+  "original": 5
+ },
+ "SO30EI.csv": {
+  "difference": 0,
+  "new": 0,
+  "original": 0
+ },
+ "SO30FI.csv": {
+  "difference": 6,
+  "new": 10,
+  "original": 16
+ },
+ "SO30MU.csv": {
+  "difference": 0,
+  "new": 1,
+  "original": 1
+ },
+ "SO30RE.csv": {
+  "difference": 1,
+  "new": 2,
+  "original": 3
+ },
+ "SO30SI.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "SO30SN.csv": {
+  "difference": 6,
+  "new": 4,
+  "original": 10
+ },
+ "SO30TH.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "SO30WA.csv": {
+  "difference": 0,
+  "new": 5,
+  "original": 5
+ },
+ "SO31EI.csv": {
+  "difference": 0,
+  "new": 0,
+  "original": 0
+ },
+ "SO31FI.csv": {
+  "difference": 6,
+  "new": 10,
+  "original": 16
+ },
+ "SO31MU.csv": {
+  "difference": 0,
+  "new": 1,
+  "original": 1
+ },
+ "SO31RE.csv": {
+  "difference": 1,
+  "new": 2,
+  "original": 3
+ },
+ "SO31SI.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "SO31SN.csv": {
+  "difference": 6,
+  "new": 4,
+  "original": 10
+ },
+ "SO31TH.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "SO31WA.csv": {
+  "difference": 0,
+  "new": 5,
+  "original": 5
+ },
+ "SO32EI.csv": {
+  "difference": 0,
+  "new": 0,
+  "original": 0
+ },
+ "SO32FI.csv": {
+  "difference": 6,
+  "new": 10,
+  "original": 16
+ },
+ "SO32MU.csv": {
+  "difference": 0,
+  "new": 1,
+  "original": 1
+ },
+ "SO32RE.csv": {
+  "difference": 1,
+  "new": 2,
+  "original": 3
+ },
+ "SO32SI.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "SO32SN.csv": {
+  "difference": 6,
+  "new": 4,
+  "original": 10
+ },
+ "SO32TH.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "SO32WA.csv": {
+  "difference": 0,
+  "new": 5,
+  "original": 5
+ },
+ "SO33EI.csv": {
+  "difference": 0,
+  "new": 0,
+  "original": 0
+ },
+ "SO33FI.csv": {
+  "difference": 6,
+  "new": 10,
+  "original": 16
+ },
+ "SO33MU.csv": {
+  "difference": 0,
+  "new": 1,
+  "original": 1
+ },
+ "SO33RE.csv": {
+  "difference": 1,
+  "new": 2,
+  "original": 3
+ },
+ "SO33SI.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "SO33SN.csv": {
+  "difference": 6,
+  "new": 4,
+  "original": 10
+ },
+ "SO33TH.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "SO33WA.csv": {
+  "difference": 0,
+  "new": 5,
+  "original": 5
+ },
+ "TH26EI.csv": {
+  "difference": 0,
+  "new": 0,
+  "original": 0
+ },
+ "TH26FI.csv": {
+  "difference": 12,
+  "new": 13,
+  "original": 25
+ },
+ "TH26MU.csv": {
+  "difference": 6,
+  "new": 4,
+  "original": 10
+ },
+ "TH26RE.csv": {
+  "difference": 7,
+  "new": 5,
+  "original": 12
+ },
+ "TH26SI.csv": {
+  "difference": 6,
+  "new": 5,
+  "original": 11
+ },
+ "TH26SN.csv": {
+  "difference": 12,
+  "new": 7,
+  "original": 19
+ },
+ "TH26TH.csv": {
+  "difference": 6,
+  "new": 5,
+  "original": 11
+ },
+ "TH26WA.csv": {
+  "difference": 6,
+  "new": 8,
+  "original": 14
+ },
+ "TH27EI.csv": {
+  "difference": 3,
+  "new": 12,
+  "original": 15
+ },
+ "TH27FI.csv": {
+  "difference": 17,
+  "new": 14,
+  "original": 31
+ },
+ "TH27MU.csv": {
+  "difference": 11,
+  "new": 5,
+  "original": 16
+ },
+ "TH27RE.csv": {
+  "difference": 11,
+  "new": 7,
+  "original": 18
+ },
+ "TH27SI.csv": {
+  "difference": 10,
+  "new": 7,
+  "original": 17
+ },
+ "TH27SN.csv": {
+  "difference": 17,
+  "new": 8,
+  "original": 25
+ },
+ "TH27TH.csv": {
+  "difference": 10,
+  "new": 7,
+  "original": 17
+ },
+ "TH27WA.csv": {
+  "difference": 11,
+  "new": 9,
+  "original": 20
+ },
+ "UN27EI.csv": {
+  "difference": 0,
+  "new": 0,
+  "original": 0
+ },
+ "UN27FI.csv": {
+  "difference": 0,
+  "new": 0,
+  "original": 0
+ },
+ "UN27RE.csv": {
+  "difference": 0,
+  "new": 3,
+  "original": 3
+ },
+ "UN27SN.csv": {
+  "difference": 0,
+  "new": 0,
+  "original": 0
+ },
+ "UNHAFI.csv": {
+  "difference": 6,
+  "new": 10,
+  "original": 16
+ },
+ "UNHARE.csv": {
+  "difference": 0,
+  "new": 3,
+  "original": 3
+ },
+ "UNPSRE.csv": {
+  "difference": 4,
+  "new": 7,
+  "original": 11
+ },
+ "UNSSRE.csv": {
+  "difference": 0,
+  "new": 3,
+  "original": 3
+ },
+ "US26EI.csv": {
+  "difference": 2,
+  "new": 2,
+  "original": 4
+ },
+ "US26FI.csv": {
+  "difference": 8,
+  "new": 12,
+  "original": 20
+ },
+ "US26MU.csv": {
+  "difference": 2,
+  "new": 3,
+  "original": 5
+ },
+ "US26RE.csv": {
+  "difference": 2,
+  "new": 5,
+  "original": 7
+ },
+ "US26SI.csv": {
+  "difference": 2,
+  "new": 4,
+  "original": 6
+ },
+ "US26SN.csv": {
+  "difference": 8,
+  "new": 6,
+  "original": 14
+ },
+ "US26TH.csv": {
+  "difference": 2,
+  "new": 4,
+  "original": 6
+ },
+ "US26WA.csv": {
+  "difference": 2,
+  "new": 7,
+  "original": 9
+ },
+ "US27EI.csv": {
+  "difference": 4,
+  "new": 5,
+  "original": 9
+ },
+ "US27FI.csv": {
+  "difference": 10,
+  "new": 15,
+  "original": 25
+ },
+ "US27MU.csv": {
+  "difference": 4,
+  "new": 6,
+  "original": 10
+ },
+ "US27RE.csv": {
+  "difference": 8,
+  "new": 7,
+  "original": 15
+ },
+ "US27SI.csv": {
+  "difference": 4,
+  "new": 7,
+  "original": 11
+ },
+ "US27SN.csv": {
+  "difference": 10,
+  "new": 9,
+  "original": 19
+ },
+ "US27TH.csv": {
+  "difference": 4,
+  "new": 7,
+  "original": 11
+ },
+ "US27WA.csv": {
+  "difference": 4,
+  "new": 10,
+  "original": 14
+ },
+ "VA26EI.csv": {
+  "difference": 3,
+  "new": 1,
+  "original": 4
+ },
+ "VA26FI.csv": {
+  "difference": 9,
+  "new": 11,
+  "original": 20
+ },
+ "VA26MU.csv": {
+  "difference": 3,
+  "new": 2,
+  "original": 5
+ },
+ "VA26RE.csv": {
+  "difference": 4,
+  "new": 3,
+  "original": 7
+ },
+ "VA26SI.csv": {
+  "difference": 3,
+  "new": 3,
+  "original": 6
+ },
+ "VA26SN.csv": {
+  "difference": 9,
+  "new": 5,
+  "original": 14
+ },
+ "VA26TH.csv": {
+  "difference": 3,
+  "new": 3,
+  "original": 6
+ },
+ "VA26WA.csv": {
+  "difference": 3,
+  "new": 6,
+  "original": 9
+ },
+ "VA27EI.csv": {
+  "difference": 3,
+  "new": 2,
+  "original": 5
+ },
+ "VA27FI.csv": {
+  "difference": 9,
+  "new": 12,
+  "original": 21
+ },
+ "VA27MU.csv": {
+  "difference": 3,
+  "new": 3,
+  "original": 6
+ },
+ "VA27RE.csv": {
+  "difference": 4,
+  "new": 4,
+  "original": 8
+ },
+ "VA27SI.csv": {
+  "difference": 3,
+  "new": 4,
+  "original": 7
+ },
+ "VA27SN.csv": {
+  "difference": 9,
+  "new": 6,
+  "original": 15
+ },
+ "VA27TH.csv": {
+  "difference": 3,
+  "new": 4,
+  "original": 7
+ },
+ "VA27WA.csv": {
+  "difference": 3,
+  "new": 7,
+  "original": 10
+ },
+ "VA28EI.csv": {
+  "difference": 0,
+  "new": 0,
+  "original": 0
+ },
+ "VA28FI.csv": {
+  "difference": 6,
+  "new": 10,
+  "original": 16
+ },
+ "VA28MU.csv": {
+  "difference": 0,
+  "new": 1,
+  "original": 1
+ },
+ "VA28RE.csv": {
+  "difference": 1,
+  "new": 2,
+  "original": 3
+ },
+ "VA28SI.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "VA28SN.csv": {
+  "difference": 6,
+  "new": 4,
+  "original": 10
+ },
+ "VA28TH.csv": {
+  "difference": 0,
+  "new": 2,
+  "original": 2
+ },
+ "VA28WA.csv": {
+  "difference": 0,
+  "new": 5,
+  "original": 5
+ },
+ "VA29EI.csv": {
+  "difference": 2,
+  "new": 3,
+  "original": 5
+ },
+ "VA29FI.csv": {
+  "difference": 8,
+  "new": 13,
+  "original": 21
+ },
+ "VA29MU.csv": {
+  "difference": 2,
+  "new": 4,
+  "original": 6
+ },
+ "VA29RE.csv": {
+  "difference": 3,
+  "new": 5,
+  "original": 8
+ },
+ "VA29SI.csv": {
+  "difference": 2,
+  "new": 5,
+  "original": 7
+ },
+ "VA29SN.csv": {
+  "difference": 8,
+  "new": 7,
+  "original": 15
+ },
+ "VA29TH.csv": {
+  "difference": 2,
+  "new": 5,
+  "original": 7
+ },
+ "VA29WA.csv": {
+  "difference": 2,
+  "new": 8,
+  "original": 10
+ },
+ "VA30EI.csv": {
+  "difference": 1,
+  "new": 12,
+  "original": 13
+ },
+ "VA30FI.csv": {
+  "difference": 11,
+  "new": 18,
+  "original": 29
+ },
+ "VA30MU.csv": {
+  "difference": 10,
+  "new": 4,
+  "original": 14
+ },
+ "VA30RE.csv": {
+  "difference": 10,
+  "new": 6,
+  "original": 16
+ },
+ "VA30SI.csv": {
+  "difference": 1,
+  "new": 14,
+  "original": 15
+ },
+ "VA30SN.csv": {
+  "difference": 16,
+  "new": 7,
+  "original": 23
+ },
+ "VA30TH.csv": {
+  "difference": 10,
+  "new": 5,
+  "original": 15
+ },
+ "VA30WA.csv": {
+  "difference": 10,
+  "new": 8,
+  "original": 18
+ }
+}

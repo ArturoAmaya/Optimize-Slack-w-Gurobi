@@ -1,0 +1,9 @@
+/.DS_Store
+/__pycache__
+/iismodel.ilp
+/opt_results
+/results.csv
+/results_max18_nobalance.csv
+/results_max19_units.csv
+/results_wbalance_max18.csv
+/venv
