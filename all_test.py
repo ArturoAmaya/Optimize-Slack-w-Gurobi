@@ -7,11 +7,17 @@ import re
 import urllib
 import traceback
 
-def urlize(dp:DegreePlan):
+def urlize(dp:DegreePlan, college: str, major:str, year:int, optimized: bool):
     c = ca.write_csv(dp) # if you don't say where it writes to string
     d = re.sub('"([a-z, A-Z,0-9]+[\/,0-9,A-Z, ]+)"', r'\1', c.getvalue())
     shard = urllib.parse.quote(re.sub('"(([0-9]+;?)*)"', r'\1', d), safe='()/')
-    dp_url = "https://educationalinnovation.ucsd.edu/_files/graph-demo.html?defaults=ca#" + shard
+    # new content in the url includes year, major code, title
+    title = f"&title={major}+({college},+{year}):+{(dp.curriculum.name).replace(' ', '+')}+{'Optimized' if optimized else 'Unoptimized'}"
+    year = f"&year={year}"
+    major = f"&major={major}"
+    #title = f"&title={major}+({college},+{2024}):+{(dp.curriculum.name).replace(' ', '+')}"
+    #&year=2024&major=PB31&title=PB31+(Revelle,+2024):+Public+Health+with+Concentration+in+Medicine+Sciences
+    dp_url = "https://educationalinnovation.ucsd.edu/_files/graph-demo.html?defaults=ucsd" + year + major + title + "#" + shard
     return dp_url
                 
 
@@ -125,16 +131,16 @@ for dirpath, dirnames, filenames in os.walk("../../WhatIfSite/WhatIfSite/app/inf
                         'Original Slack': slack_calc(dp), 
                         'New Slack': slack_calc(opt), 
                         'Difference': slack_calc(opt)-slack_calc(dp),
-                        'Old Avg Slack': slack_calc(dp)/len(find_isolates(dp)),
-                        'New Avg Slack': slack_calc(opt)/len(find_isolates(opt)),
+                        'Old Avg Slack': slack_calc(dp)/(len(dp.curriculum.courses)-len(find_non_isolates(dp))),
+                        'New Avg Slack': slack_calc(opt)/(len(opt.curriculum.courses)-len(find_non_isolates(opt))),
                         'Old Avg Slack w/ Zeros': slack_calc(dp)/len(dp.curriculum.courses),
                         'New Avg Slack w/ Zeros': slack_calc(opt)/len(opt.curriculum.courses),
                         'Old Max': max([x[0] for x in slack_list(dp)]), 
                         'New Max': max(x[0] for x in slack_list(opt)), 
                         'Old Min': min([x[0] for x in slack_list(dp)]), 
                         'New Min': min([x[0] for x in slack_list(opt)]),
-                        'Old URL': urlize(dp), 
-                        'New URL': urlize(opt)
+                        'Old URL': urlize(dp, output_dir.replace("/", "")[-6:-4], output_dir.replace("/", "")[0:-6], 2024, False), 
+                        'New URL': urlize(opt, output_dir.replace("/", "")[-6:-4], output_dir.replace("/", "")[0:-6], 2024, True), 
                         }
 
 
@@ -142,10 +148,10 @@ for dirpath, dirnames, filenames in os.walk("../../WhatIfSite/WhatIfSite/app/inf
                 print(traceback.format_exc())
                 results[output_dir] = {'original': 0, 'new': 0, 'difference':  0}
                 df.loc[len(df)] = {'Major': output_dir.replace("/", "")[0:-6], 'College': output_dir.replace("/", "")[-6:-4], 'Original Slack': 0, 'New Slack': 0, 'difference': 0}
-        df.to_csv("results.csv")
+        df.to_csv("results_2024.csv")
 print(results)
 
 import json 
   
-with open('convert.json', 'w') as convert_file: 
+with open('convert_2024.json', 'w') as convert_file: 
      convert_file.write(json.dumps(results, sort_keys = True, indent=1))
