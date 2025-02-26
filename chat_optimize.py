@@ -219,7 +219,7 @@ def optimize_plan(
         vID_Course = get_vertex(courseID, curric)
         if vID_Course != 0:
             model.addConstr(gp.quicksum([x[vID_Course, j] for j in range(term_count)]) >= lowTerm)#x[vID_Course, :]) >= lowTerm)
-            model.addConstr(gp.quicksum([x[vID_Course, j] for j in range(term_count)]) <= lowTerm)
+            model.addConstr(gp.quicksum([x[vID_Course, j] for j in range(term_count)]) <= highTerm)
 
     # parse objectives
     objectives = []
