@@ -1,1 +1,2 @@
 - [ ] Look into specifying more info about the courses we are allowed to move (i.e. the non-isolates). That way we can also integrate the balance objective without getting lower div prereqs for electives in the final terms (something that happens becuase the elective as such doesn't have the lower div as a prereq but it MIGHT.)
+- [ ] Look into why the non-isolate ranges seem to have to be huge (-10+10 fails on MC33 FI which is crazy)
