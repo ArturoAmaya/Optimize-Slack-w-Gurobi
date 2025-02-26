@@ -84,9 +84,9 @@ def find_non_isolates(dp: DegreePlan):
                     # it's isolated now
                     isolates[str(course.id)] = term_index
                 else:
-                    non_isolates[str(course.id)] = (max(0,term_index-5), min(term_index+5, 12))
+                    non_isolates[str(course.id)] = (max(0,term_index-5), min(term_index+5, 11))
             else:
-                non_isolates[str(course.id)] = (max(0,term_index-5), min(term_index+5, 12)) # HARDCODED
+                non_isolates[str(course.id)] = (max(0,term_index-5), min(term_index+5, 11)) # HARDCODED
     return (isolates, non_isolates)
 
 
