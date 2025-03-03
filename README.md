@@ -1,17 +1,32 @@
-# Optimize Slack
+# Slack Optimizer
 
-This repo attempts to improve the slack that's often found in curricula at UCSD. Slack is the distance between a course and its prereq - large distances are inefficient and counter-productive because students will have forgotten the prerequisite knowledge by the time they take the second course. 
+## What does this tool do?
+This tool rearranges courses in a curriculum to improve overall course slack.
 
-Obviously this is not easy to do by hand, or we would have done it already. There are several priorities and validity conditions that alter how you can optimize the curricula - for example, packing 24 units in a quarter for the sake of reducing slack isn't an optimal choice. 
+## What is course slack?
+We define slack as the number of terms between a course and its prerequisite. The total slack in a curriculum is the sum of the slack for each of its courses. 
 
-This repo uses Curricular Analytics and Gurobi Optimizer. The gist of the process is to turn the Curricular Analytics graphs into matrices and then optimize those with well known iterative algorithms while adhering to a set of conditions. 
+## Why do we care about slack?
+Presumably courses have prerequisites because they build on the knowledge of a previous course. To do that successfully the knowledge should be practiced or somewhat fresh. When there are large gaps between two courses that build on each other, it is perfectly reasonable to expect students to struggle. See this example below:
 
-A lot of this work is just a python port of work done by the original Curricular Analytics team. The explanations of the cost functions used and the conditions can be found on an old old commit in the [Curricular Analytics github](https://github.com/CurricularAnalytics/CurricularAnalytics.jl/blob/v0.6.6/docs/src/degreeplans.md). I think they mightve removed it to make it a paid feature or maybe to debug it, but I can't really say. All I can say is it works for us. I've also included the document in this repo in case anything happens. See that for an explanation of the cost functions we can use and the math behind the optimization.
+![Bad slack example](./bad_slack.png)
 
-I believe that of the three cost functions described there, balance and slack (requisite distance) are the supported ones. I think that the toxic course avoidance we don't have the necessary 'toxicity' data to test and use the function. In theory it should work though. 
+There are 6 terms between MAE 3 and MAE 150. That's two whole years - how much can you expect students to remember from MAE 3 by the time they take MAE 150?
 
-All of the optimization code is provided in the file ```chat_optimize.py```. ```test.py``` is for testing one or two curricula at once and ```all_test.py``` will sweep across a file structure and attempt to optimize all the plans it can find. It compiles results in csv format as well as JSON, and it has a function to "url-ize" the degree plans so they can be visualized using Sean's curricular grapher tool. The defualt base link included points to the UCSD-specific hosting of that tool, but you can change that.
+## How do you optimize?
+Basically the tool grabs all the elective courses and freezes them. It them tries to rearrange everything else according to a set of cost functions and conditions that are explained [in more depth elsewhere](./README_technical.md). The conditions the tool currently tries to adhere to are:
 
-The tool also supports specifying the that a given course $x$ has to occur in term $i$ or in a range $[i,j]$. Currently 'canonical' results are using only the prereq objective function, not the balance. The cap of 20 units per term seems to serve well for UCSD plans, and the balance function makes the whole thing take forever. 
+- 12 quarters
+- No more than 18 units per quarter
+- No less than 12 units per quarter
 
-Currently the 'canonical' results don't make use of ranged course specifications. Don't have the information to make those specifications since they are highly curriculum-dependent (try sweeping across the UCSD curricula with a range of (current_term-5, current_term + 5) for any non-fixed course and see how many of those models are infeasible. I think even with -10+10 some models still fail and I'm not quite sure why), but if they were given they're easy to incorporate. Might be worth incorporating to the single ```test.py``` file if you need it. I've thought of doing something like lower divs stay in the first half of the program. Right now I grab the 'isolate courses' ,i.e. the ones that have no pregreqs or dependencies (i.e. electives) and keep them fixed and try to move everything else around. I chose to keep electives fixed because there's no real difference to making elective 1 and elective 2 switch places and the tool often tries to place things like 'Upper division technical elective' into the first quarter, which obviously makes no sense.
+## How do I read the results?
+The results are, for those with access, available [here](https://tableau.ucsd.edu/#/views/Slack_Calcs/Avgslack?:iid=1) 
+
+The visualization is broken up into three sections - compression, max slack and links. Compression, or average slack, tracks how much more compressed the courses can be, percentage-wise. That is, a 30% score means we can reduce the total slack of the curriculum by 30%. Max slack tracks the same but for the highest slack link in a curriculum. Can we improve on that? The links section contains links so you can see the unoptimized and otpimized plans side by side. 
+
+## Are these plans objectively better?
+No, not necessarily. They are simply provided to show that there are alternative ways of arranging courses in a curriculum. It may turn out that there is a good reason that there is a gap between course X and course Y, but this tool exposes that reason should it exist. It can help in thoughtful and purposeful program review.
+
+## What about electives?
+We're currently working on a separate project to help understand how elective choices can impact curriculum complexity. Once it is finished we will also run the optimizations on those curricula. 
