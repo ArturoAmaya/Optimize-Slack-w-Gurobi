@@ -147,7 +147,25 @@ for dirpath, dirnames, filenames in os.walk("../../WhatIfSite/WhatIfSite/app/inf
             except:
                 print(traceback.format_exc())
                 results[output_dir] = {'original': 0, 'new': 0, 'difference':  0}
-                df.loc[len(df)] = {'Major': output_dir.replace("/", "")[0:-6], 'College': output_dir.replace("/", "")[-6:-4], 'Original Slack': 0, 'New Slack': 0, 'difference': 0}
+                # use the old vcalues
+                if type(dp) == DegreePlan:
+                    df.loc[len(df)] = {
+                    'Major': output_dir.replace("/", "")[0:-6], 
+                        'College': output_dir.replace("/", "")[-6:-4], 
+                        'Original Slack': slack_calc(dp), 
+                        'New Slack': slack_calc(dp), 
+                        'Difference': 0,
+                        'Old Avg Slack': slack_calc(dp)/(len(dp.curriculum.courses)-len(find_non_isolates(dp))),
+                        'New Avg Slack': slack_calc(dp)/(len(dp.curriculum.courses)-len(find_non_isolates(dp))),
+                        'Old Avg Slack w/ Zeros': slack_calc(dp)/len(dp.curriculum.courses),
+                        'New Avg Slack w/ Zeros': slack_calc(dp)/len(dp.curriculum.courses),
+                        'Old Max': max([x[0] for x in slack_list(dp)]), 
+                        'New Max': max(x[0] for x in slack_list(dp)), 
+                        'Old Min': min([x[0] for x in slack_list(dp)]), 
+                        'New Min': min([x[0] for x in slack_list(dp)]),
+                        'Old URL': urlize(dp, output_dir.replace("/", "")[-6:-4], output_dir.replace("/", "")[0:-6], 2024, False), 
+                        'New URL': '' #urlize(opt, output_dir.replace("/", "")[-6:-4], output_dir.replace("/", "")[0:-6], 2024, True), 
+                    }
         df.to_csv("results_2024.csv")
 print(results)
 
