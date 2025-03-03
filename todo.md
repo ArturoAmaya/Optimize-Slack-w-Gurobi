@@ -1,3 +1,3 @@
 - [ ] Look into specifying more info about the courses we are allowed to move (i.e. the non-isolates). That way we can also integrate the balance objective without getting lower div prereqs for electives in the final terms (something that happens becuase the elective as such doesn't have the lower div as a prereq but it MIGHT.)
 - [ ] Look into why the non-isolate ranges seem to have to be huge (-11+11 fails on MC33 FI which is crazy that's basically the whole range)
-- [ ] Apparently in 2024 MC33 FI and RE are infeasible period. Look into that
+- [x] Apparently in 2024 MC33 FI and RE are infeasible period. Look into that. It's because the terms all have 16/18/20 units and the current cap on units in the optimization is 18. Can't move the last 4 units from the 20 unit term to any of the others because then they'd be over as well. I'll leave the new URL blank to indicate something is wrong and fill the values with the original
