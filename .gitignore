@@ -7,3 +7,5 @@
 /results_max19_units.csv
 /results_wbalance_max18.csv
 /venv
+*.csv
+*.json
