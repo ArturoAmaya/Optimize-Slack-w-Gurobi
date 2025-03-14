@@ -23,7 +23,7 @@ Basically the tool grabs all the elective courses and locks them in to the term 
 ## How do I read the results?
 The results are, for those with access, available [here](https://tableau.ucsd.edu/#/views/Slack_Calcs/Avgslack?:iid=1) 
 
-The visualization is broken up into three sections - compression, max slack and links. Compression, or average slack, tracks how much more compressed the courses can be, percentage-wise. That is, a 30% score means we can reduce the total slack of the curriculum by 30%. Max slack tracks the same but for the highest slack link in a curriculum. Can we improve on that? The links section contains links so you can see the unoptimized and optimized plans side by side. 
+The visualization is broken up into three sections - compression, max slack and links. Compression, or average slack, tracks how much more compressed the courses can be, percentage-wise. That is, a 30% score means we can reduce the total slack of the curriculum by 30%. Max slack tracks the same but for the highest slack link in a curriculum. Can we improve on that? The links section contains links so you can see the unoptimized and optimized plans side by side. Entries with no results mean we couldn't find a way, with the given conditions, of improving the total or max slack.
 
 ## Are these plans objectively better?
 No, not necessarily. They are simply provided to show that there are alternative ways of arranging courses in a curriculum. It may turn out that there is a good reason that there is a gap between course X and course Y, but this tool exposes that reason, should it exist. It can help in thoughtful and purposeful program review.
