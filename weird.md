@@ -1,0 +1,6 @@
+- [x] PY34 TH seems to place PHYS UD RE 2 in the first term. Functionally no one cares because you can swap with an LD that's later on but it looks unprofessional. It also implies a mistake because it's an isolate for sure. Should be fixed now.
+- [x] EC26 seems to put everything into non-isolates.
+- [x] PY 34 TH seems to count DOC 1/ UCSD DEI as a non-isolate on the basis of DOC 1 being its own requisite. Right answer wrong reasoning [fixed, needed to add dep_course not course]
+- [x] PY 34 TH places TMC UD breadth or something like that in the first term. No problem cuz it's obviously swappable with an ELECTIVE course but it's not a good look. Consider rules based on the string "UD" in course names. Think that's the best I can do for now. Fixed added a string check for "UD"
+- [ ] Check the MC34 results - 20 max with cross reference seems to procude exactly the same graph but claims a reduction of 98 points. Can't tell where the gain is
+- [ ] The college names are not appearing in the right spot in the resulting graph
