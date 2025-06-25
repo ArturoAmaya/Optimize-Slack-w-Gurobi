@@ -2,5 +2,5 @@
 - [x] EC26 seems to put everything into non-isolates.
 - [x] PY 34 TH seems to count DOC 1/ UCSD DEI as a non-isolate on the basis of DOC 1 being its own requisite. Right answer wrong reasoning [fixed, needed to add dep_course not course]
 - [x] PY 34 TH places TMC UD breadth or something like that in the first term. No problem cuz it's obviously swappable with an ELECTIVE course but it's not a good look. Consider rules based on the string "UD" in course names. Think that's the best I can do for now. Fixed added a string check for "UD"
-- [ ] Check the MC34 results - 20 max with cross reference seems to procude exactly the same graph but claims a reduction of 98 points. Can't tell where the gain is
-- [ ] The college names are not appearing in the right spot in the resulting graph
+- [x] Check the MC34 results - 20 max with cross reference seems to procude exactly the same graph but claims a reduction of 98 points. Can't tell where the gain is Seems like it's a cookies/browser problem. Need to ad a note to clear cookies and history if results aren't showing. Actually a problem on my end URL-izing the ruleset name
+- [ ] The college names are not appearing in the right spot in the resulting graph. might also be a browser thing
