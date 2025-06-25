@@ -2,13 +2,14 @@ import chat_optimize
 import curricularanalytics as ca
 import re
 import urllib
+from curricularanalytics import DegreePlan
 
-def urlize(dp, college: str, major:str, year:int, optimized: bool):
+def urlize(dp:DegreePlan, college: str, major:str, year:int, optimized: bool, ruleset: str=None):
     c = ca.write_csv(dp) # if you don't say where it writes to string
     d = re.sub('"([a-z, A-Z,0-9]+[\/,0-9,A-Z, ]+)"', r'\1', c.getvalue())
     shard = urllib.parse.quote(re.sub('"(([0-9]+;?)*)"', r'\1', d), safe='()/')
     # new content in the url includes year, major code, title
-    title = f"&title={major}+({college},+{year}):+{(dp.curriculum.name).replace(' ', '+')}+{'Optimized' if optimized else 'Unoptimized'}"
+    title = f"&title={major}+({college},+{year}):+{(dp.curriculum.name).replace(' ', '+')}+{'Optimized' if optimized else 'Unoptimized'}+{ruleset.replace(' ','+') if ruleset is not None else ""}"
     year = f"&year={year}"
     major = f"&major={major}"
     #title = f"&title={major}+({college},+{2024}):+{(dp.curriculum.name).replace(' ', '+')}"
@@ -16,7 +17,7 @@ def urlize(dp, college: str, major:str, year:int, optimized: bool):
     dp_url = "https://educationalinnovation.ucsd.edu/_files/graph-demo.html?defaults=ucsd" + year + major + title + "#" + shard
     return dp_url
 
-curr = ca.read_csv('../../WhatIfSite/WhatIfSite/app/infrastructure/files/output/EC26/EI.csv')
+curr = ca.read_csv('./cs26_max_nodsc')
 curr = curr.curriculum
 term_count = 12
 min_cpt = 12
@@ -28,4 +29,4 @@ term_range = {'37': (5,11), '38': (5,11), '39': (5,11), '40': (5,11), '41': (5,1
 opt = chat_optimize.optimize_plan(curr, term_count, min_cpt, max_cpt, obj_order, "", {}, fixed_courses, {}, {}, [])
 ca.write_csv(opt, 'opt.csv')
 
-print(urlize(opt, "EI" , "EC26", 2024, True))
+print(urlize(opt, "CS26" , "CS26", 2025, True))
