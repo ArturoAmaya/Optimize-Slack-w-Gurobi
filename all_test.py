@@ -13,7 +13,7 @@ def urlize(dp:DegreePlan, college: str, major:str, year:int, optimized: bool, ru
     d = re.sub('"([a-z, A-Z,0-9]+[\/,0-9,A-Z, ]+)"', r'\1', c.getvalue())
     shard = urllib.parse.quote(re.sub('"(([0-9]+;?)*)"', r'\1', d), safe='()/')
     # new content in the url includes year, major code, title
-    title = f"&title={major}+({college},+{year}):+{(dp.curriculum.name).replace(' ', '+')}+{'Optimized' if optimized else 'Unoptimized'}+{ruleset if ruleset is not None else ""}"
+    title = f"&title={major}+({college},+{year}):+{(dp.curriculum.name).replace(' ', '+')}+{'Optimized' if optimized else 'Unoptimized'}+{ruleset.replace(' ','+') if ruleset is not None else ""}"
     year = f"&year={year}"
     major = f"&major={major}"
     #title = f"&title={major}+({college},+{2024}):+{(dp.curriculum.name).replace(' ', '+')}"
@@ -21,7 +21,7 @@ def urlize(dp:DegreePlan, college: str, major:str, year:int, optimized: bool, ru
     dp_url = "https://educationalinnovation.ucsd.edu/_files/graph-demo.html?defaults=ucsd" + year + major + title + "#" + shard
     return dp_url
       
-def optimize_plan(dp, term_count, min_cpt, max_cpt, obj_order, cross_reference = False, plans=None, major=None, college=None, name=None):
+def optimize_plan(dp, term_count, min_cpt, max_cpt, obj_order, cross_reference = False, plans=None, major=None, college=None, name=None, output_dir=None):
     curr = dp.curriculum
     #term_count = 12
     #min_cpt = 12
@@ -49,8 +49,8 @@ def optimize_plan(dp, term_count, min_cpt, max_cpt, obj_order, cross_reference =
         f'{name} Original Slack': slack_calc(dp), 
         f'{name} New Slack': slack_calc(opt), 
         f'{name} Difference': slack_calc(opt)-slack_calc(dp),
-        f'{name} Old Avg Slack': slack_calc(dp)/(len(dp.curriculum.courses)-len(find_non_isolates(dp, cross_reference, plans, major, college))),
-        f'{name} New Avg Slack': slack_calc(opt)/(len(opt.curriculum.courses)-len(find_non_isolates(opt, cross_reference, plans, major, college))),
+        f'{name} Old Avg Slack': slack_calc(dp)/(len(dp.curriculum.courses)-len(find_non_isolates(dp, cross_reference, plans, major, college)[1])+1e-6),
+        f'{name} New Avg Slack': slack_calc(opt)/(len(opt.curriculum.courses)-len(find_non_isolates(opt, cross_reference, plans, major, college)[1])+1e-6),
         f'{name} Old Avg Slack w/ Zeros': slack_calc(dp)/len(dp.curriculum.courses),
         f'{name} New Avg Slack w/ Zeros': slack_calc(opt)/len(opt.curriculum.courses),
         f'{name} Old Max': max([x[0] for x in slack_list(dp)]), 
@@ -168,54 +168,55 @@ rulesets.append( {
     'Cross Reference': True 
 })
 
-base_cols = ['Major', 'College']
-ruleset_cols = [[f'{ruleset['Name']} Original Slack', f'{ruleset['Name']} New Slack', f'{ruleset['Name']} Difference', f'{ruleset['Name']} Old Avg Slack', f'{ruleset['Name']} New Avg Slack', f'{ruleset['Name']} Old Avg Slack w/ Zeros', f'{ruleset['Name']} New Avg Slack w/ Zeros', f'{ruleset['Name']} Old Max', f'{ruleset['Name']} New Max', f'{ruleset['Name']} Old Min', f'{ruleset['Name']} New Min', f'{ruleset['Name']} Old URL',  f'{ruleset['Name']} New URL'] for ruleset in rulesets ]
-ruleset_cols = [element for innerList in ruleset_cols for element in innerList]
-df = pd.DataFrame(columns=base_cols+ruleset_cols)
-for dirpath, dirnames, filenames in os.walk("../../WhatIfSite/WhatIfSite/app/infrastructure/files/output"):
-    for dirname in dirnames: 
-        if not os.path.exists('./opt_results/' + dirname):
-            os.makedirs('./opt_results/' + dirname)
-    for filename in filenames:
-        if filename.endswith('.csv'):
-            #print(os.path.join(dirpath, filename))
-            output_dir = os.path.join(dirpath, filename).replace("../../WhatIfSite/WhatIfSite/app/infrastructure/files/output", "")
-            dp = ca.read_csv(os.path.join(dirpath, filename))
-            if type(dp) == DegreePlan:
-                results = []
-                for ruleset in rulesets:
-                    try:
-                        cross_reference = ruleset['Cross Reference']
-                        if cross_reference:
-                            plans = pd.read_csv("./academic_plans_thruFA24.csv")
-                            plans = plans[(plans['Start Year'] == 2024)]
-                        results.append(optimize_plan(dp, ruleset['Term Count'], ruleset['Min Credits per Term'], ruleset['Max Credits per Term'], ruleset['Objective Order'], cross_reference, plans, output_dir.replace("/", "")[0:-6], output_dir.replace("/", "")[-6:-4], ruleset['Name']))
-                    except:
-                        print(traceback.format_exc())
-                        if type(dp) == DegreePlan:
-                            results.append({
-                            f'{ruleset['Name']} Original Slack': slack_calc(dp), 
-                            f'{ruleset['Name']} New Slack': slack_calc(dp), 
-                            f'{ruleset['Name']} Difference': 0,
-                            f'{ruleset['Name']} Old Avg Slack': slack_calc(dp)/(len(dp.curriculum.courses)-len(find_non_isolates(dp, cross_reference, plans, output_dir.replace("/", "")[0:-6], output_dir.replace("/", "")[-6:-4]))),
-                            f'{ruleset['Name']} New Avg Slack': slack_calc(dp)/(len(dp.curriculum.courses)-len(find_non_isolates(dp, cross_reference, plans, output_dir.replace("/", "")[0:-6], output_dir.replace("/", "")[-6:-4]))),
-                            f'{ruleset['Name']} Old Avg Slack w/ Zeros': slack_calc(dp)/len(dp.curriculum.courses),
-                            f'{ruleset['Name']} New Avg Slack w/ Zeros': slack_calc(dp)/len(dp.curriculum.courses),
-                            f'{ruleset['Name']} Old Max': max([x[0] for x in slack_list(dp)]), 
-                            f'{ruleset['Name']} New Max': max(x[0] for x in slack_list(dp)), 
-                            f'{ruleset['Name']} Old Min': min([x[0] for x in slack_list(dp)]), 
-                            f'{ruleset['Name']} New Min': min([x[0] for x in slack_list(dp)]),
-                            f'{ruleset['Name']} Old URL': urlize(dp, output_dir.replace("/", "")[-6:-4], output_dir.replace("/", "")[0:-6], 2024, False), 
-                            f'{ruleset['Name']} New URL': '' #urlize(opt, output_dir.replace("/", "")[-6:-4], output_dir.replace("/", "")[0:-6], 2024, True), 
-                            }
-                            )
-                flat_results = {
-                     'Major': output_dir.replace("/", "")[0:-6], 
-                    'College': output_dir.replace("/", "")[-6:-4], 
-                }
-                for result in results:
-                    flat_results.update(result)
-                df.loc[len(df)] = flat_results
+if __name__ == "__main__":
+    base_cols = ['Major', 'College']
+    ruleset_cols = [[f'{ruleset['Name']} Original Slack', f'{ruleset['Name']} New Slack', f'{ruleset['Name']} Difference', f'{ruleset['Name']} Old Avg Slack', f'{ruleset['Name']} New Avg Slack', f'{ruleset['Name']} Old Avg Slack w/ Zeros', f'{ruleset['Name']} New Avg Slack w/ Zeros', f'{ruleset['Name']} Old Max', f'{ruleset['Name']} New Max', f'{ruleset['Name']} Old Min', f'{ruleset['Name']} New Min', f'{ruleset['Name']} Old URL',  f'{ruleset['Name']} New URL'] for ruleset in rulesets ]
+    ruleset_cols = [element for innerList in ruleset_cols for element in innerList]
+    df = pd.DataFrame(columns=base_cols+ruleset_cols)
+    for dirpath, dirnames, filenames in os.walk("../../WhatIfSite/WhatIfSite/app/infrastructure/files/output"):
+        for dirname in dirnames: 
+            if not os.path.exists('./opt_results/' + dirname):
+                os.makedirs('./opt_results/' + dirname)
+        for filename in filenames:
+            if filename.endswith('.csv'):
+                #print(os.path.join(dirpath, filename))
+                output_dir = os.path.join(dirpath, filename).replace("../../WhatIfSite/WhatIfSite/app/infrastructure/files/output", "")
+                dp = ca.read_csv(os.path.join(dirpath, filename))
+                if type(dp) == DegreePlan:
+                    results = []
+                    for ruleset in rulesets:
+                        try:
+                            cross_reference = ruleset['Cross Reference']
+                            if cross_reference:
+                                plans = pd.read_csv("./academic_plans_thruFA24.csv")
+                                plans = plans[(plans['Start Year'] == 2024)]
+                            results.append(optimize_plan(dp, ruleset['Term Count'], ruleset['Min Credits per Term'], ruleset['Max Credits per Term'], ruleset['Objective Order'], cross_reference, plans, output_dir.replace("/", "")[0:-6], output_dir.replace("/", "")[-6:-4], ruleset['Name']))
+                        except:
+                            print(traceback.format_exc())
+                            if type(dp) == DegreePlan:
+                                results.append({
+                                f'{ruleset['Name']} Original Slack': slack_calc(dp), 
+                                f'{ruleset['Name']} New Slack': slack_calc(dp), 
+                                f'{ruleset['Name']} Difference': 0,
+                                f'{ruleset['Name']} Old Avg Slack': slack_calc(dp)/(len(dp.curriculum.courses)-len(find_non_isolates(dp, cross_reference, plans, output_dir.replace("/", "")[0:-6], output_dir.replace("/", "")[-6:-4])[1])),
+                                f'{ruleset['Name']} New Avg Slack': slack_calc(dp)/(len(dp.curriculum.courses)-len(find_non_isolates(dp, cross_reference, plans, output_dir.replace("/", "")[0:-6], output_dir.replace("/", "")[-6:-4])[1])),
+                                f'{ruleset['Name']} Old Avg Slack w/ Zeros': slack_calc(dp)/len(dp.curriculum.courses),
+                                f'{ruleset['Name']} New Avg Slack w/ Zeros': slack_calc(dp)/len(dp.curriculum.courses),
+                                f'{ruleset['Name']} Old Max': max([x[0] for x in slack_list(dp)]), 
+                                f'{ruleset['Name']} New Max': max(x[0] for x in slack_list(dp)), 
+                                f'{ruleset['Name']} Old Min': min([x[0] for x in slack_list(dp)]), 
+                                f'{ruleset['Name']} New Min': min([x[0] for x in slack_list(dp)]),
+                                f'{ruleset['Name']} Old URL': urlize(dp, output_dir.replace("/", "")[-6:-4], output_dir.replace("/", "")[0:-6], 2024, False), 
+                                f'{ruleset['Name']} New URL': '' #urlize(opt, output_dir.replace("/", "")[-6:-4], output_dir.replace("/", "")[0:-6], 2024, True), 
+                                }
+                                )
+                    flat_results = {
+                        'Major': output_dir.replace("/", "")[0:-6], 
+                        'College': output_dir.replace("/", "")[-6:-4], 
+                    }
+                    for result in results:
+                        flat_results.update(result)
+                    df.loc[len(df)] = flat_results
                     #curr = dp.curriculum
                     #term_count = 12
                     #min_cpt = 12
@@ -256,4 +257,4 @@ for dirpath, dirnames, filenames in os.walk("../../WhatIfSite/WhatIfSite/app/inf
                     #    'New URL': urlize(opt, output_dir.replace("/", "")[-6:-4], output_dir.replace("/", "")[0:-6], 2024, True), 
                     #    }
             
-        df.to_csv("results_2024_20_units.csv")
+            df.to_csv("results_2024_20_units.csv")
